@@ -503,10 +503,15 @@
         body.innerHTML = `<audio src="${asset.url}" controls autoplay></audio>`;
       }
 
-      // Set the full URL (use asset URL directly if it's absolute)
-      const fullUrl = asset.url.startsWith('http') ? asset.url : window.location.origin + asset.url;
+      // Set the URL for copying - use asset URL directly if absolute
+      const isAbsolute = asset.url.startsWith('http');
+      const fullUrl = isAbsolute ? asset.url : window.location.origin + asset.url;
       document.getElementById('modalUrl').value = fullUrl;
-      document.getElementById('openNewTab').href = asset.url;
+      document.getElementById('openNewTab').href = fullUrl;
+
+      // Update download button text for external files
+      const downloadBtn = document.getElementById('downloadBtn');
+      downloadBtn.textContent = isAbsolute ? 'Open in Tab' : 'Download';
 
       document.getElementById('modal').classList.add('active');
     }
@@ -515,27 +520,35 @@
       if (!currentAsset) return;
 
       const btn = document.getElementById('downloadBtn');
-      btn.textContent = 'Downloading...';
+      const url = currentAsset.url;
+      const isExternal = url.startsWith('http') && !url.includes(window.location.host);
 
+      // For external URLs (cross-origin), open in new tab - user can right-click save
+      if (isExternal) {
+        window.open(url, '_blank');
+        return;
+      }
+
+      // For local URLs, fetch and download
+      btn.textContent = 'Downloading...';
       try {
-        const response = await fetch(currentAsset.url);
+        const response = await fetch(url);
         const blob = await response.blob();
-        const url = URL.createObjectURL(blob);
+        const blobUrl = URL.createObjectURL(blob);
 
         const a = document.createElement('a');
-        a.href = url;
+        a.href = blobUrl;
         a.download = currentAsset.name;
         document.body.appendChild(a);
         a.click();
         document.body.removeChild(a);
-        URL.revokeObjectURL(url);
+        URL.revokeObjectURL(blobUrl);
 
         btn.textContent = 'Downloaded!';
         setTimeout(() => { btn.textContent = 'Download'; }, 1500);
       } catch (err) {
         console.error('Download failed:', err);
-        // Fallback: open in new tab
-        window.open(currentAsset.url, '_blank');
+        window.open(url, '_blank');
         btn.textContent = 'Download';
       }
     }
