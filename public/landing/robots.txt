@@ -1,0 +1,6 @@
+# robots.txt for trytaketwo.app
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://trytaketwo.app/sitemap.xml

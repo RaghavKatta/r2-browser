@@ -2,13 +2,12 @@
 const fs = require('fs');
 const path = require('path');
 
+// Local paths for scanning
 const TAKETWOAPP_PUBLIC = '/Users/raghavkatta/VSCODE/taketwoapp/public';
-const LANDING_PUBLIC = '/Users/raghavkatta/VSCODE/taketwolanding/public';
+const LANDING_PUBLIC = path.join(__dirname, 'public', 'landing');
 
-// For production URLs - update these to your actual URLs
-const TAKETWOAPP_URL = 'https://trytaketwo.com';
-const LANDING_URL = 'https://taketwo.gg';
-const R2_URL = 'https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev';
+// Production URLs
+const R2_CDN_URL = 'https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev';
 
 function getFileType(ext) {
   if (['.mp4', '.webm', '.mov', '.avi', '.mkv'].includes(ext)) return 'video';
@@ -50,15 +49,23 @@ function getMediaFiles(dir, baseDir, urlPrefix, source) {
     }
   }
 
-  scan(dir);
+  if (fs.existsSync(dir)) {
+    scan(dir);
+  } else {
+    console.warn(`Directory not found: ${dir}`);
+  }
+
   return results;
 }
 
 // Generate assets
 console.log('Scanning directories...');
 
-const taketwoappAssets = getMediaFiles(TAKETWOAPP_PUBLIC, TAKETWOAPP_PUBLIC, TAKETWOAPP_URL, 'taketwoapp');
-const landingAssets = getMediaFiles(LANDING_PUBLIC, LANDING_PUBLIC, LANDING_URL, 'landing');
+// TakeTwo App assets → R2 CDN URLs
+const taketwoappAssets = getMediaFiles(TAKETWOAPP_PUBLIC, TAKETWOAPP_PUBLIC, R2_CDN_URL, 'taketwoapp');
+
+// Landing assets → relative URLs (served from /landing/)
+const landingAssets = getMediaFiles(LANDING_PUBLIC, LANDING_PUBLIC, '/landing', 'landing');
 
 const allAssets = [...taketwoappAssets, ...landingAssets];
 
@@ -74,5 +81,5 @@ const data = {
 fs.writeFileSync(path.join(__dirname, 'public', 'assets.json'), JSON.stringify(data, null, 2));
 
 console.log(`✅ Generated assets.json with ${allAssets.length} assets`);
-console.log(`   - TakeTwo App: ${taketwoappAssets.length}`);
-console.log(`   - Landing: ${landingAssets.length}`);
+console.log(`   - TakeTwo App (R2 CDN): ${taketwoappAssets.length}`);
+console.log(`   - Landing (local): ${landingAssets.length}`);

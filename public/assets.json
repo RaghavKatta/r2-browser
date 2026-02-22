@@ -9,7 +9,7 @@
       "key": "android-chrome-192x192.png",
       "name": "android-chrome-192x192.png",
       "size": 21971,
-      "url": "https://trytaketwo.com/android-chrome-192x192.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/android-chrome-192x192.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -17,7 +17,7 @@
       "key": "android-chrome-512x512.png",
       "name": "android-chrome-512x512.png",
       "size": 92612,
-      "url": "https://trytaketwo.com/android-chrome-512x512.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/android-chrome-512x512.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -25,7 +25,7 @@
       "key": "devices/iphone-15-pro.png",
       "name": "iphone-15-pro.png",
       "size": 359276,
-      "url": "https://trytaketwo.com/devices/iphone-15-pro.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/devices/iphone-15-pro.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -33,7 +33,7 @@
       "key": "devices/samsung-s24.png",
       "name": "samsung-s24.png",
       "size": 181180,
-      "url": "https://trytaketwo.com/devices/samsung-s24.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/devices/samsung-s24.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -41,7 +41,7 @@
       "key": "favicon-16x16.png",
       "name": "favicon-16x16.png",
       "size": 748,
-      "url": "https://trytaketwo.com/favicon-16x16.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/favicon-16x16.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -49,7 +49,7 @@
       "key": "favicon-32x32.png",
       "name": "favicon-32x32.png",
       "size": 1854,
-      "url": "https://trytaketwo.com/favicon-32x32.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/favicon-32x32.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -57,7 +57,7 @@
       "key": "hero-intro.gif",
       "name": "hero-intro.gif",
       "size": 585162,
-      "url": "https://trytaketwo.com/hero-intro.gif",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/hero-intro.gif",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -65,7 +65,7 @@
       "key": "hero-intro.mp4",
       "name": "hero-intro.mp4",
       "size": 114658,
-      "url": "https://trytaketwo.com/hero-intro.mp4",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/hero-intro.mp4",
       "type": "video",
       "source": "taketwoapp"
     },
@@ -73,7 +73,7 @@
       "key": "icons/image-gen-icon.png",
       "name": "image-gen-icon.png",
       "size": 28995,
-      "url": "https://trytaketwo.com/icons/image-gen-icon.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/icons/image-gen-icon.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -81,7 +81,7 @@
       "key": "icons/video-gen-icon.png",
       "name": "video-gen-icon.png",
       "size": 6218,
-      "url": "https://trytaketwo.com/icons/video-gen-icon.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/icons/video-gen-icon.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -89,7 +89,7 @@
       "key": "images/canvas-effects/sustain.jpg",
       "name": "sustain.jpg",
       "size": 6829409,
-      "url": "https://trytaketwo.com/images/canvas-effects/sustain.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/canvas-effects/sustain.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -97,7 +97,7 @@
       "key": "images/icons/ai-sparkle.png",
       "name": "ai-sparkle.png",
       "size": 9317,
-      "url": "https://trytaketwo.com/images/icons/ai-sparkle.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/icons/ai-sparkle.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -105,7 +105,7 @@
       "key": "images/image_enhancer.jpeg",
       "name": "image_enhancer.jpeg",
       "size": 11920,
-      "url": "https://trytaketwo.com/images/image_enhancer.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/image_enhancer.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -113,7 +113,7 @@
       "key": "images/nano-banana/canvas1.png",
       "name": "canvas1.png",
       "size": 1908705,
-      "url": "https://trytaketwo.com/images/nano-banana/canvas1.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/canvas1.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -121,7 +121,7 @@
       "key": "images/nano-banana/cartoon.png",
       "name": "cartoon.png",
       "size": 1741533,
-      "url": "https://trytaketwo.com/images/nano-banana/cartoon.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/cartoon.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -129,7 +129,7 @@
       "key": "images/nano-banana/craft.png",
       "name": "craft.png",
       "size": 1425220,
-      "url": "https://trytaketwo.com/images/nano-banana/craft.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/craft.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -137,7 +137,7 @@
       "key": "images/nano-banana/craft33.png",
       "name": "craft33.png",
       "size": 1138330,
-      "url": "https://trytaketwo.com/images/nano-banana/craft33.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/craft33.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -145,7 +145,7 @@
       "key": "images/nano-banana/dump2.png",
       "name": "dump2.png",
       "size": 1270454,
-      "url": "https://trytaketwo.com/images/nano-banana/dump2.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/dump2.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -153,7 +153,7 @@
       "key": "images/nano-banana/fa1354bacdbb93a4c465eeaa22cd415c.jpg.jpeg",
       "name": "fa1354bacdbb93a4c465eeaa22cd415c.jpg.jpeg",
       "size": 77588,
-      "url": "https://trytaketwo.com/images/nano-banana/fa1354bacdbb93a4c465eeaa22cd415c.jpg.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/fa1354bacdbb93a4c465eeaa22cd415c.jpg.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -161,7 +161,7 @@
       "key": "images/nano-banana/food1.png",
       "name": "food1.png",
       "size": 1261080,
-      "url": "https://trytaketwo.com/images/nano-banana/food1.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/food1.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -169,7 +169,7 @@
       "key": "images/nano-banana/food21.png",
       "name": "food21.png",
       "size": 876957,
-      "url": "https://trytaketwo.com/images/nano-banana/food21.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/food21.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -177,7 +177,7 @@
       "key": "images/nano-banana/image-upscale.jpg",
       "name": "image-upscale.jpg",
       "size": 133274,
-      "url": "https://trytaketwo.com/images/nano-banana/image-upscale.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image-upscale.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -185,7 +185,7 @@
       "key": "images/nano-banana/image11.png",
       "name": "image11.png",
       "size": 278396,
-      "url": "https://trytaketwo.com/images/nano-banana/image11.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image11.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -193,7 +193,7 @@
       "key": "images/nano-banana/image12.png",
       "name": "image12.png",
       "size": 343264,
-      "url": "https://trytaketwo.com/images/nano-banana/image12.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image12.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -201,7 +201,7 @@
       "key": "images/nano-banana/image13.png",
       "name": "image13.png",
       "size": 291487,
-      "url": "https://trytaketwo.com/images/nano-banana/image13.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image13.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -209,7 +209,7 @@
       "key": "images/nano-banana/image14.png",
       "name": "image14.png",
       "size": 250170,
-      "url": "https://trytaketwo.com/images/nano-banana/image14.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image14.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -217,7 +217,7 @@
       "key": "images/nano-banana/image15.png",
       "name": "image15.png",
       "size": 490292,
-      "url": "https://trytaketwo.com/images/nano-banana/image15.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image15.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -225,7 +225,7 @@
       "key": "images/nano-banana/image16.png",
       "name": "image16.png",
       "size": 243863,
-      "url": "https://trytaketwo.com/images/nano-banana/image16.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image16.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -233,7 +233,7 @@
       "key": "images/nano-banana/image18.png",
       "name": "image18.png",
       "size": 340022,
-      "url": "https://trytaketwo.com/images/nano-banana/image18.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image18.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -241,7 +241,7 @@
       "key": "images/nano-banana/image19.png",
       "name": "image19.png",
       "size": 314538,
-      "url": "https://trytaketwo.com/images/nano-banana/image19.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image19.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -249,7 +249,7 @@
       "key": "images/nano-banana/image23.png",
       "name": "image23.png",
       "size": 1456921,
-      "url": "https://trytaketwo.com/images/nano-banana/image23.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image23.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -257,7 +257,7 @@
       "key": "images/nano-banana/image24.png",
       "name": "image24.png",
       "size": 1335808,
-      "url": "https://trytaketwo.com/images/nano-banana/image24.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image24.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -265,7 +265,7 @@
       "key": "images/nano-banana/image3.png",
       "name": "image3.png",
       "size": 374099,
-      "url": "https://trytaketwo.com/images/nano-banana/image3.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image3.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -273,7 +273,7 @@
       "key": "images/nano-banana/image31.png",
       "name": "image31.png",
       "size": 700593,
-      "url": "https://trytaketwo.com/images/nano-banana/image31.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image31.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -281,7 +281,7 @@
       "key": "images/nano-banana/image33.png",
       "name": "image33.png",
       "size": 22509886,
-      "url": "https://trytaketwo.com/images/nano-banana/image33.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image33.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -289,7 +289,7 @@
       "key": "images/nano-banana/image4.png",
       "name": "image4.png",
       "size": 495757,
-      "url": "https://trytaketwo.com/images/nano-banana/image4.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image4.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -297,7 +297,7 @@
       "key": "images/nano-banana/image5.png",
       "name": "image5.png",
       "size": 809366,
-      "url": "https://trytaketwo.com/images/nano-banana/image5.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image5.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -305,7 +305,7 @@
       "key": "images/nano-banana/image6.png",
       "name": "image6.png",
       "size": 270786,
-      "url": "https://trytaketwo.com/images/nano-banana/image6.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image6.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -313,7 +313,7 @@
       "key": "images/nano-banana/image7.png",
       "name": "image7.png",
       "size": 318056,
-      "url": "https://trytaketwo.com/images/nano-banana/image7.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image7.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -321,7 +321,7 @@
       "key": "images/nano-banana/image9.png",
       "name": "image9.png",
       "size": 321892,
-      "url": "https://trytaketwo.com/images/nano-banana/image9.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/image9.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -329,7 +329,7 @@
       "key": "images/nano-banana/kling .png",
       "name": "kling .png",
       "size": 1498287,
-      "url": "https://trytaketwo.com/images/nano-banana/kling .png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/kling .png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -337,7 +337,7 @@
       "key": "images/nano-banana/light.png",
       "name": "light.png",
       "size": 783104,
-      "url": "https://trytaketwo.com/images/nano-banana/light.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/light.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -345,7 +345,7 @@
       "key": "images/nano-banana/lipsync .jpeg",
       "name": "lipsync .jpeg",
       "size": 98926,
-      "url": "https://trytaketwo.com/images/nano-banana/lipsync .jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/lipsync .jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -353,7 +353,7 @@
       "key": "images/nano-banana/nano.png",
       "name": "nano.png",
       "size": 1226221,
-      "url": "https://trytaketwo.com/images/nano-banana/nano.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/nano.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -361,7 +361,7 @@
       "key": "images/nano-banana/paper12.png",
       "name": "paper12.png",
       "size": 2123136,
-      "url": "https://trytaketwo.com/images/nano-banana/paper12.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/paper12.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -369,7 +369,7 @@
       "key": "images/nano-banana/reelstudio.png",
       "name": "reelstudio.png",
       "size": 1827987,
-      "url": "https://trytaketwo.com/images/nano-banana/reelstudio.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/reelstudio.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -377,7 +377,7 @@
       "key": "images/nano-banana/removebg3.png",
       "name": "removebg3.png",
       "size": 496424,
-      "url": "https://trytaketwo.com/images/nano-banana/removebg3.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/removebg3.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -385,7 +385,7 @@
       "key": "images/nano-banana/shade.png",
       "name": "shade.png",
       "size": 1138199,
-      "url": "https://trytaketwo.com/images/nano-banana/shade.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana/shade.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -393,7 +393,7 @@
       "key": "images/nano-banana-logo.png",
       "name": "nano-banana-logo.png",
       "size": 1125,
-      "url": "https://trytaketwo.com/images/nano-banana-logo.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana-logo.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -401,7 +401,7 @@
       "key": "images/nano-banana-logo.svg",
       "name": "nano-banana-logo.svg",
       "size": 1168,
-      "url": "https://trytaketwo.com/images/nano-banana-logo.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/nano-banana-logo.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -409,7 +409,7 @@
       "key": "images/presets/machine-heart/machine-heart.png",
       "name": "machine-heart.png",
       "size": 808980,
-      "url": "https://trytaketwo.com/images/presets/machine-heart/machine-heart.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/presets/machine-heart/machine-heart.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -417,7 +417,7 @@
       "key": "images/presets/machine-heart/shot1.png",
       "name": "shot1.png",
       "size": 808980,
-      "url": "https://trytaketwo.com/images/presets/machine-heart/shot1.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/presets/machine-heart/shot1.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -425,7 +425,7 @@
       "key": "images/presets/machine-heart/shot2.png",
       "name": "shot2.png",
       "size": 885043,
-      "url": "https://trytaketwo.com/images/presets/machine-heart/shot2.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/presets/machine-heart/shot2.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -433,7 +433,7 @@
       "key": "images/presets/machine-heart/shot3.png",
       "name": "shot3.png",
       "size": 906824,
-      "url": "https://trytaketwo.com/images/presets/machine-heart/shot3.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/presets/machine-heart/shot3.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -441,7 +441,7 @@
       "key": "images/presets/machine-heart/shot4.png",
       "name": "shot4.png",
       "size": 923073,
-      "url": "https://trytaketwo.com/images/presets/machine-heart/shot4.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/presets/machine-heart/shot4.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -449,7 +449,7 @@
       "key": "images/presets/machine-heart/shot5.png",
       "name": "shot5.png",
       "size": 1158840,
-      "url": "https://trytaketwo.com/images/presets/machine-heart/shot5.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/presets/machine-heart/shot5.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -457,7 +457,7 @@
       "key": "images/presets/paper-world/shot1.png",
       "name": "shot1.png",
       "size": 2321973,
-      "url": "https://trytaketwo.com/images/presets/paper-world/shot1.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/presets/paper-world/shot1.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -465,7 +465,7 @@
       "key": "images/presets/paper-world/shot2.png",
       "name": "shot2.png",
       "size": 1808504,
-      "url": "https://trytaketwo.com/images/presets/paper-world/shot2.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/presets/paper-world/shot2.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -473,7 +473,7 @@
       "key": "images/presets/paper-world/shot3.png",
       "name": "shot3.png",
       "size": 2547164,
-      "url": "https://trytaketwo.com/images/presets/paper-world/shot3.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/presets/paper-world/shot3.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -481,7 +481,7 @@
       "key": "images/presets/paper-world/shot4.png",
       "name": "shot4.png",
       "size": 2037344,
-      "url": "https://trytaketwo.com/images/presets/paper-world/shot4.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/presets/paper-world/shot4.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -489,7 +489,7 @@
       "key": "images/presets/paper-world.png",
       "name": "paper-world.png",
       "size": 2033024,
-      "url": "https://trytaketwo.com/images/presets/paper-world.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/presets/paper-world.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -497,7 +497,7 @@
       "key": "images/presets/shoe-stopper/shoe-stopper.png",
       "name": "shoe-stopper.png",
       "size": 2360616,
-      "url": "https://trytaketwo.com/images/presets/shoe-stopper/shoe-stopper.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/presets/shoe-stopper/shoe-stopper.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -505,7 +505,7 @@
       "key": "images/presets/shoe-stopper/shot1.png",
       "name": "shot1.png",
       "size": 2360616,
-      "url": "https://trytaketwo.com/images/presets/shoe-stopper/shot1.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/presets/shoe-stopper/shot1.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -513,7 +513,7 @@
       "key": "images/presets/shoe-stopper/shot2.png",
       "name": "shot2.png",
       "size": 2330927,
-      "url": "https://trytaketwo.com/images/presets/shoe-stopper/shot2.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/presets/shoe-stopper/shot2.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -521,7 +521,7 @@
       "key": "images/presets/shoe-stopper/shot3.png",
       "name": "shot3.png",
       "size": 2430272,
-      "url": "https://trytaketwo.com/images/presets/shoe-stopper/shot3.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/presets/shoe-stopper/shot3.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -529,7 +529,7 @@
       "key": "images/presets/shoe-stopper/shot4.png",
       "name": "shot4.png",
       "size": 1099860,
-      "url": "https://trytaketwo.com/images/presets/shoe-stopper/shot4.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/presets/shoe-stopper/shot4.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -537,7 +537,7 @@
       "key": "images/taketwo-banner.png",
       "name": "taketwo-banner.png",
       "size": 320757,
-      "url": "https://trytaketwo.com/images/taketwo-banner.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/taketwo-banner.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -545,7 +545,7 @@
       "key": "images/templates/commercial-product-demo.png",
       "name": "commercial-product-demo.png",
       "size": 1746222,
-      "url": "https://trytaketwo.com/images/templates/commercial-product-demo.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/templates/commercial-product-demo.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -553,7 +553,7 @@
       "key": "images/templates/luxury-cinema.png",
       "name": "luxury-cinema.png",
       "size": 1001064,
-      "url": "https://trytaketwo.com/images/templates/luxury-cinema.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/templates/luxury-cinema.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -561,7 +561,7 @@
       "key": "images/templates/ugc-direct-response.png",
       "name": "ugc-direct-response.png",
       "size": 946167,
-      "url": "https://trytaketwo.com/images/templates/ugc-direct-response.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/templates/ugc-direct-response.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -569,7 +569,7 @@
       "key": "images/thumbnails/ai-avatar.jpg",
       "name": "ai-avatar.jpg",
       "size": 98105,
-      "url": "https://trytaketwo.com/images/thumbnails/ai-avatar.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/ai-avatar.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -577,7 +577,7 @@
       "key": "images/thumbnails/angles-poster.jpg",
       "name": "angles-poster.jpg",
       "size": 271046,
-      "url": "https://trytaketwo.com/images/thumbnails/angles-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/angles-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -585,7 +585,7 @@
       "key": "images/thumbnails/animate.png",
       "name": "animate.png",
       "size": 723785,
-      "url": "https://trytaketwo.com/images/thumbnails/animate.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/animate.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -593,7 +593,7 @@
       "key": "images/thumbnails/comic1.jpg",
       "name": "comic1.jpg",
       "size": 75538,
-      "url": "https://trytaketwo.com/images/thumbnails/comic1.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/comic1.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -601,7 +601,7 @@
       "key": "images/thumbnails/comic2.png",
       "name": "comic2.png",
       "size": 1667505,
-      "url": "https://trytaketwo.com/images/thumbnails/comic2.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/comic2.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -609,7 +609,7 @@
       "key": "images/thumbnails/dump-poster.jpg",
       "name": "dump-poster.jpg",
       "size": 107291,
-      "url": "https://trytaketwo.com/images/thumbnails/dump-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/dump-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -617,7 +617,7 @@
       "key": "images/thumbnails/faceswap1.png",
       "name": "faceswap1.png",
       "size": 809366,
-      "url": "https://trytaketwo.com/images/thumbnails/faceswap1.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/faceswap1.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -625,7 +625,7 @@
       "key": "images/thumbnails/faceswap2.png",
       "name": "faceswap2.png",
       "size": 152463,
-      "url": "https://trytaketwo.com/images/thumbnails/faceswap2.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/faceswap2.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -633,7 +633,7 @@
       "key": "images/thumbnails/fuse-poster.jpg",
       "name": "fuse-poster.jpg",
       "size": 510923,
-      "url": "https://trytaketwo.com/images/thumbnails/fuse-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/fuse-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -641,7 +641,7 @@
       "key": "images/thumbnails/homeinterior.jpg",
       "name": "homeinterior.jpg",
       "size": 118037,
-      "url": "https://trytaketwo.com/images/thumbnails/homeinterior.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/homeinterior.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -649,7 +649,7 @@
       "key": "images/thumbnails/homeinterior2.jpg",
       "name": "homeinterior2.jpg",
       "size": 118891,
-      "url": "https://trytaketwo.com/images/thumbnails/homeinterior2.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/homeinterior2.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -657,7 +657,7 @@
       "key": "images/thumbnails/image-gen.png",
       "name": "image-gen.png",
       "size": 1416331,
-      "url": "https://trytaketwo.com/images/thumbnails/image-gen.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/image-gen.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -665,7 +665,7 @@
       "key": "images/thumbnails/image26.png",
       "name": "image26.png",
       "size": 1968024,
-      "url": "https://trytaketwo.com/images/thumbnails/image26.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/image26.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -673,7 +673,7 @@
       "key": "images/thumbnails/image3D.png",
       "name": "image3D.png",
       "size": 620594,
-      "url": "https://trytaketwo.com/images/thumbnails/image3D.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/image3D.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -681,7 +681,7 @@
       "key": "images/thumbnails/inpaint1.jpg",
       "name": "inpaint1.jpg",
       "size": 47802,
-      "url": "https://trytaketwo.com/images/thumbnails/inpaint1.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/inpaint1.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -689,7 +689,7 @@
       "key": "images/thumbnails/inpaint2.png",
       "name": "inpaint2.png",
       "size": 459782,
-      "url": "https://trytaketwo.com/images/thumbnails/inpaint2.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/inpaint2.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -697,7 +697,7 @@
       "key": "images/thumbnails/lipsync-poster.jpg",
       "name": "lipsync-poster.jpg",
       "size": 463196,
-      "url": "https://trytaketwo.com/images/thumbnails/lipsync-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/lipsync-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -705,7 +705,7 @@
       "key": "images/thumbnails/motion-control-image.png",
       "name": "motion-control-image.png",
       "size": 188328,
-      "url": "https://trytaketwo.com/images/thumbnails/motion-control-image.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/motion-control-image.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -713,7 +713,7 @@
       "key": "images/thumbnails/motion-poster.jpg",
       "name": "motion-poster.jpg",
       "size": 312070,
-      "url": "https://trytaketwo.com/images/thumbnails/motion-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/motion-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -721,7 +721,7 @@
       "key": "images/thumbnails/motioncontrol - Copy.jpg",
       "name": "motioncontrol - Copy.jpg",
       "size": 72668,
-      "url": "https://trytaketwo.com/images/thumbnails/motioncontrol - Copy.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/motioncontrol - Copy.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -729,7 +729,7 @@
       "key": "images/thumbnails/motioncontrol.jpg",
       "name": "motioncontrol.jpg",
       "size": 72668,
-      "url": "https://trytaketwo.com/images/thumbnails/motioncontrol.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/motioncontrol.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -737,7 +737,7 @@
       "key": "images/thumbnails/recast-poster.jpg",
       "name": "recast-poster.jpg",
       "size": 125831,
-      "url": "https://trytaketwo.com/images/thumbnails/recast-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/recast-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -745,7 +745,7 @@
       "key": "images/thumbnails/reframe-poster.jpg",
       "name": "reframe-poster.jpg",
       "size": 110695,
-      "url": "https://trytaketwo.com/images/thumbnails/reframe-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/reframe-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -753,7 +753,7 @@
       "key": "images/thumbnails/remove bg final-poster.jpg",
       "name": "remove bg final-poster.jpg",
       "size": 302109,
-      "url": "https://trytaketwo.com/images/thumbnails/remove bg final-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/remove bg final-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -761,7 +761,7 @@
       "key": "images/thumbnails/remove-bg.jpg",
       "name": "remove-bg.jpg",
       "size": 53832,
-      "url": "https://trytaketwo.com/images/thumbnails/remove-bg.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/remove-bg.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -769,7 +769,7 @@
       "key": "images/thumbnails/remove-bg.png",
       "name": "remove-bg.png",
       "size": 7202744,
-      "url": "https://trytaketwo.com/images/thumbnails/remove-bg.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/remove-bg.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -777,7 +777,7 @@
       "key": "images/thumbnails/remove-bg1.png",
       "name": "remove-bg1.png",
       "size": 2065724,
-      "url": "https://trytaketwo.com/images/thumbnails/remove-bg1.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/remove-bg1.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -785,7 +785,7 @@
       "key": "images/thumbnails/remove-element-poster.jpg",
       "name": "remove-element-poster.jpg",
       "size": 447045,
-      "url": "https://trytaketwo.com/images/thumbnails/remove-element-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/remove-element-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -793,7 +793,7 @@
       "key": "images/thumbnails/sketch1.jpg",
       "name": "sketch1.jpg",
       "size": 774139,
-      "url": "https://trytaketwo.com/images/thumbnails/sketch1.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/sketch1.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -801,7 +801,7 @@
       "key": "images/thumbnails/sketch1.png",
       "name": "sketch1.png",
       "size": 1114768,
-      "url": "https://trytaketwo.com/images/thumbnails/sketch1.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/sketch1.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -809,7 +809,7 @@
       "key": "images/thumbnails/sketch2.jpg",
       "name": "sketch2.jpg",
       "size": 646769,
-      "url": "https://trytaketwo.com/images/thumbnails/sketch2.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/sketch2.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -817,7 +817,7 @@
       "key": "images/thumbnails/sketch2.png",
       "name": "sketch2.png",
       "size": 1586220,
-      "url": "https://trytaketwo.com/images/thumbnails/sketch2.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/sketch2.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -825,7 +825,7 @@
       "key": "images/thumbnails/skin1.jpg",
       "name": "skin1.jpg",
       "size": 117237,
-      "url": "https://trytaketwo.com/images/thumbnails/skin1.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/skin1.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -833,7 +833,7 @@
       "key": "images/thumbnails/skin2.png",
       "name": "skin2.png",
       "size": 1019943,
-      "url": "https://trytaketwo.com/images/thumbnails/skin2.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/skin2.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -841,7 +841,7 @@
       "key": "images/thumbnails/skinenchanced.png",
       "name": "skinenchanced.png",
       "size": 1484445,
-      "url": "https://trytaketwo.com/images/thumbnails/skinenchanced.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/skinenchanced.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -849,7 +849,7 @@
       "key": "images/thumbnails/skinenchanced1.png",
       "name": "skinenchanced1.png",
       "size": 1600186,
-      "url": "https://trytaketwo.com/images/thumbnails/skinenchanced1.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/skinenchanced1.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -857,7 +857,7 @@
       "key": "images/thumbnails/transitions-poster.jpg",
       "name": "transitions-poster.jpg",
       "size": 441935,
-      "url": "https://trytaketwo.com/images/thumbnails/transitions-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/transitions-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -865,7 +865,7 @@
       "key": "images/thumbnails/upscale-poster.jpg",
       "name": "upscale-poster.jpg",
       "size": 110695,
-      "url": "https://trytaketwo.com/images/thumbnails/upscale-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/upscale-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -873,7 +873,7 @@
       "key": "images/thumbnails/video-gen-poster.jpg",
       "name": "video-gen-poster.jpg",
       "size": 44598,
-      "url": "https://trytaketwo.com/images/thumbnails/video-gen-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/video-gen-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -881,7 +881,7 @@
       "key": "images/thumbnails/videoangles1.jpg",
       "name": "videoangles1.jpg",
       "size": 44935,
-      "url": "https://trytaketwo.com/images/thumbnails/videoangles1.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/images/thumbnails/videoangles1.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -889,7 +889,7 @@
       "key": "landingv1/Explore ShowReel-poster.jpg",
       "name": "Explore ShowReel-poster.jpg",
       "size": 817779,
-      "url": "https://trytaketwo.com/landingv1/Explore ShowReel-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/Explore ShowReel-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -897,7 +897,7 @@
       "key": "landingv1/cta/cta-bg.png",
       "name": "cta-bg.png",
       "size": 580102,
-      "url": "https://trytaketwo.com/landingv1/cta/cta-bg.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/cta/cta-bg.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -905,7 +905,7 @@
       "key": "landingv1/gallery/explore-card-bg.jpeg",
       "name": "explore-card-bg.jpeg",
       "size": 162462,
-      "url": "https://trytaketwo.com/landingv1/gallery/explore-card-bg.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/explore-card-bg.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -913,7 +913,7 @@
       "key": "landingv1/gallery/nano-1.jpg",
       "name": "nano-1.jpg",
       "size": 4511685,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-1.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-1.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -921,7 +921,7 @@
       "key": "landingv1/gallery/nano-10.jpg",
       "name": "nano-10.jpg",
       "size": 13863845,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-10.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-10.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -929,7 +929,7 @@
       "key": "landingv1/gallery/nano-11.jpg",
       "name": "nano-11.jpg",
       "size": 7346466,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-11.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-11.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -937,7 +937,7 @@
       "key": "landingv1/gallery/nano-12.jpg",
       "name": "nano-12.jpg",
       "size": 8143963,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-12.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-12.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -945,7 +945,7 @@
       "key": "landingv1/gallery/nano-13.jpg",
       "name": "nano-13.jpg",
       "size": 9775864,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-13.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-13.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -953,7 +953,7 @@
       "key": "landingv1/gallery/nano-14.jpg",
       "name": "nano-14.jpg",
       "size": 9003289,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-14.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-14.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -961,7 +961,7 @@
       "key": "landingv1/gallery/nano-15.jpg",
       "name": "nano-15.jpg",
       "size": 9815655,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-15.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-15.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -969,7 +969,7 @@
       "key": "landingv1/gallery/nano-16.jpg",
       "name": "nano-16.jpg",
       "size": 3841123,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-16.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-16.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -977,7 +977,7 @@
       "key": "landingv1/gallery/nano-17.jpg",
       "name": "nano-17.jpg",
       "size": 8395363,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-17.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-17.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -985,7 +985,7 @@
       "key": "landingv1/gallery/nano-18.jpg",
       "name": "nano-18.jpg",
       "size": 8823480,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-18.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-18.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -993,7 +993,7 @@
       "key": "landingv1/gallery/nano-19.jpg",
       "name": "nano-19.jpg",
       "size": 7571107,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-19.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-19.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1001,7 +1001,7 @@
       "key": "landingv1/gallery/nano-2.jpg",
       "name": "nano-2.jpg",
       "size": 6927037,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-2.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-2.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1009,7 +1009,7 @@
       "key": "landingv1/gallery/nano-20.jpg",
       "name": "nano-20.jpg",
       "size": 10237693,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-20.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-20.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1017,7 +1017,7 @@
       "key": "landingv1/gallery/nano-21.jpg",
       "name": "nano-21.jpg",
       "size": 7226930,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-21.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-21.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1025,7 +1025,7 @@
       "key": "landingv1/gallery/nano-22.jpg",
       "name": "nano-22.jpg",
       "size": 6900568,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-22.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-22.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1033,7 +1033,7 @@
       "key": "landingv1/gallery/nano-23.jpg",
       "name": "nano-23.jpg",
       "size": 7706522,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-23.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-23.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1041,7 +1041,7 @@
       "key": "landingv1/gallery/nano-24.jpg",
       "name": "nano-24.jpg",
       "size": 8316715,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-24.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-24.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1049,7 +1049,7 @@
       "key": "landingv1/gallery/nano-25.jpg",
       "name": "nano-25.jpg",
       "size": 8127718,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-25.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-25.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1057,7 +1057,7 @@
       "key": "landingv1/gallery/nano-26.jpg",
       "name": "nano-26.jpg",
       "size": 7086437,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-26.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-26.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1065,7 +1065,7 @@
       "key": "landingv1/gallery/nano-27.jpg",
       "name": "nano-27.jpg",
       "size": 8572534,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-27.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-27.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1073,7 +1073,7 @@
       "key": "landingv1/gallery/nano-28.jpg",
       "name": "nano-28.jpg",
       "size": 11034991,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-28.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-28.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1081,7 +1081,7 @@
       "key": "landingv1/gallery/nano-29.jpg",
       "name": "nano-29.jpg",
       "size": 5770284,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-29.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-29.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1089,7 +1089,7 @@
       "key": "landingv1/gallery/nano-3.jpg",
       "name": "nano-3.jpg",
       "size": 7633352,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-3.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-3.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1097,7 +1097,7 @@
       "key": "landingv1/gallery/nano-30.jpg",
       "name": "nano-30.jpg",
       "size": 8477892,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-30.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-30.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1105,7 +1105,7 @@
       "key": "landingv1/gallery/nano-31.jpg",
       "name": "nano-31.jpg",
       "size": 6265198,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-31.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-31.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1113,7 +1113,7 @@
       "key": "landingv1/gallery/nano-32.jpg",
       "name": "nano-32.jpg",
       "size": 8588820,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-32.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-32.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1121,7 +1121,7 @@
       "key": "landingv1/gallery/nano-33.jpg",
       "name": "nano-33.jpg",
       "size": 6985386,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-33.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-33.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1129,7 +1129,7 @@
       "key": "landingv1/gallery/nano-34.jpg",
       "name": "nano-34.jpg",
       "size": 8029194,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-34.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-34.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1137,7 +1137,7 @@
       "key": "landingv1/gallery/nano-35.jpg",
       "name": "nano-35.jpg",
       "size": 8077033,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-35.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-35.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1145,7 +1145,7 @@
       "key": "landingv1/gallery/nano-36.jpg",
       "name": "nano-36.jpg",
       "size": 10606833,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-36.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-36.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1153,7 +1153,7 @@
       "key": "landingv1/gallery/nano-37.jpg",
       "name": "nano-37.jpg",
       "size": 6484800,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-37.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-37.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1161,7 +1161,7 @@
       "key": "landingv1/gallery/nano-38.jpg",
       "name": "nano-38.jpg",
       "size": 8002206,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-38.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-38.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1169,7 +1169,7 @@
       "key": "landingv1/gallery/nano-39.jpg",
       "name": "nano-39.jpg",
       "size": 6510092,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-39.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-39.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1177,7 +1177,7 @@
       "key": "landingv1/gallery/nano-4.jpg",
       "name": "nano-4.jpg",
       "size": 7153346,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-4.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-4.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1185,7 +1185,7 @@
       "key": "landingv1/gallery/nano-40.jpg",
       "name": "nano-40.jpg",
       "size": 7379198,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-40.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-40.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1193,7 +1193,7 @@
       "key": "landingv1/gallery/nano-41.jpg",
       "name": "nano-41.jpg",
       "size": 7338564,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-41.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-41.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1201,7 +1201,7 @@
       "key": "landingv1/gallery/nano-42.jpg",
       "name": "nano-42.jpg",
       "size": 15015281,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-42.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-42.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1209,7 +1209,7 @@
       "key": "landingv1/gallery/nano-43.jpg",
       "name": "nano-43.jpg",
       "size": 6754509,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-43.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-43.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1217,7 +1217,7 @@
       "key": "landingv1/gallery/nano-44.jpg",
       "name": "nano-44.jpg",
       "size": 6405675,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-44.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-44.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1225,7 +1225,7 @@
       "key": "landingv1/gallery/nano-45.jpg",
       "name": "nano-45.jpg",
       "size": 5851697,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-45.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-45.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1233,7 +1233,7 @@
       "key": "landingv1/gallery/nano-46.jpg",
       "name": "nano-46.jpg",
       "size": 8999282,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-46.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-46.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1241,7 +1241,7 @@
       "key": "landingv1/gallery/nano-47.jpg",
       "name": "nano-47.jpg",
       "size": 7450587,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-47.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-47.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1249,7 +1249,7 @@
       "key": "landingv1/gallery/nano-48.jpg",
       "name": "nano-48.jpg",
       "size": 7850317,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-48.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-48.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1257,7 +1257,7 @@
       "key": "landingv1/gallery/nano-49.jpg",
       "name": "nano-49.jpg",
       "size": 9477861,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-49.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-49.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1265,7 +1265,7 @@
       "key": "landingv1/gallery/nano-5.jpg",
       "name": "nano-5.jpg",
       "size": 7078606,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-5.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-5.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1273,7 +1273,7 @@
       "key": "landingv1/gallery/nano-50.jpg",
       "name": "nano-50.jpg",
       "size": 7340709,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-50.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-50.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1281,7 +1281,7 @@
       "key": "landingv1/gallery/nano-51.jpg",
       "name": "nano-51.jpg",
       "size": 5911266,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-51.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-51.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1289,7 +1289,7 @@
       "key": "landingv1/gallery/nano-52.jpg",
       "name": "nano-52.jpg",
       "size": 9187914,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-52.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-52.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1297,7 +1297,7 @@
       "key": "landingv1/gallery/nano-53.jpg",
       "name": "nano-53.jpg",
       "size": 8486321,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-53.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-53.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1305,7 +1305,7 @@
       "key": "landingv1/gallery/nano-54.jpg",
       "name": "nano-54.jpg",
       "size": 8917671,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-54.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-54.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1313,7 +1313,7 @@
       "key": "landingv1/gallery/nano-55.jpg",
       "name": "nano-55.jpg",
       "size": 6802740,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-55.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-55.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1321,7 +1321,7 @@
       "key": "landingv1/gallery/nano-56.jpg",
       "name": "nano-56.jpg",
       "size": 9232570,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-56.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-56.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1329,7 +1329,7 @@
       "key": "landingv1/gallery/nano-57.jpg",
       "name": "nano-57.jpg",
       "size": 9890149,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-57.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-57.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1337,7 +1337,7 @@
       "key": "landingv1/gallery/nano-58.jpg",
       "name": "nano-58.jpg",
       "size": 8403296,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-58.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-58.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1345,7 +1345,7 @@
       "key": "landingv1/gallery/nano-59.jpg",
       "name": "nano-59.jpg",
       "size": 8095679,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-59.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-59.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1353,7 +1353,7 @@
       "key": "landingv1/gallery/nano-6.jpg",
       "name": "nano-6.jpg",
       "size": 5935346,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-6.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-6.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1361,7 +1361,7 @@
       "key": "landingv1/gallery/nano-60.jpg",
       "name": "nano-60.jpg",
       "size": 9053154,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-60.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-60.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1369,7 +1369,7 @@
       "key": "landingv1/gallery/nano-61.jpg",
       "name": "nano-61.jpg",
       "size": 6206787,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-61.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-61.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1377,7 +1377,7 @@
       "key": "landingv1/gallery/nano-7.jpg",
       "name": "nano-7.jpg",
       "size": 13258438,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-7.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-7.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1385,7 +1385,7 @@
       "key": "landingv1/gallery/nano-8.jpg",
       "name": "nano-8.jpg",
       "size": 7202733,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-8.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-8.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1393,7 +1393,7 @@
       "key": "landingv1/gallery/nano-9.jpg",
       "name": "nano-9.jpg",
       "size": 6382102,
-      "url": "https://trytaketwo.com/landingv1/gallery/nano-9.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/nano-9.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1401,7 +1401,7 @@
       "key": "landingv1/gallery/openart-1.jpg",
       "name": "openart-1.jpg",
       "size": 10250469,
-      "url": "https://trytaketwo.com/landingv1/gallery/openart-1.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/openart-1.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1409,7 +1409,7 @@
       "key": "landingv1/gallery/openart-10.jpg",
       "name": "openart-10.jpg",
       "size": 7604152,
-      "url": "https://trytaketwo.com/landingv1/gallery/openart-10.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/openart-10.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1417,7 +1417,7 @@
       "key": "landingv1/gallery/openart-11.jpg",
       "name": "openart-11.jpg",
       "size": 8114372,
-      "url": "https://trytaketwo.com/landingv1/gallery/openart-11.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/openart-11.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1425,7 +1425,7 @@
       "key": "landingv1/gallery/openart-12.jpg",
       "name": "openart-12.jpg",
       "size": 6568399,
-      "url": "https://trytaketwo.com/landingv1/gallery/openart-12.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/openart-12.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1433,7 +1433,7 @@
       "key": "landingv1/gallery/openart-13.jpg",
       "name": "openart-13.jpg",
       "size": 8125026,
-      "url": "https://trytaketwo.com/landingv1/gallery/openart-13.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/openart-13.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1441,7 +1441,7 @@
       "key": "landingv1/gallery/openart-2.jpg",
       "name": "openart-2.jpg",
       "size": 10349462,
-      "url": "https://trytaketwo.com/landingv1/gallery/openart-2.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/openart-2.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1449,7 +1449,7 @@
       "key": "landingv1/gallery/openart-3.jpg",
       "name": "openart-3.jpg",
       "size": 10005136,
-      "url": "https://trytaketwo.com/landingv1/gallery/openart-3.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/openart-3.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1457,7 +1457,7 @@
       "key": "landingv1/gallery/openart-4.jpg",
       "name": "openart-4.jpg",
       "size": 7291304,
-      "url": "https://trytaketwo.com/landingv1/gallery/openart-4.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/openart-4.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1465,7 +1465,7 @@
       "key": "landingv1/gallery/openart-5.jpg",
       "name": "openart-5.jpg",
       "size": 8288404,
-      "url": "https://trytaketwo.com/landingv1/gallery/openart-5.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/openart-5.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1473,7 +1473,7 @@
       "key": "landingv1/gallery/openart-6.jpg",
       "name": "openart-6.jpg",
       "size": 8225647,
-      "url": "https://trytaketwo.com/landingv1/gallery/openart-6.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/openart-6.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1481,7 +1481,7 @@
       "key": "landingv1/gallery/openart-7.jpg",
       "name": "openart-7.jpg",
       "size": 10154060,
-      "url": "https://trytaketwo.com/landingv1/gallery/openart-7.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/openart-7.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1489,7 +1489,7 @@
       "key": "landingv1/gallery/openart-8.jpg",
       "name": "openart-8.jpg",
       "size": 8304294,
-      "url": "https://trytaketwo.com/landingv1/gallery/openart-8.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/openart-8.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1497,7 +1497,7 @@
       "key": "landingv1/gallery/openart-9.jpg",
       "name": "openart-9.jpg",
       "size": 7163321,
-      "url": "https://trytaketwo.com/landingv1/gallery/openart-9.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/openart-9.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1505,7 +1505,7 @@
       "key": "landingv1/gallery/soul-1.jpg",
       "name": "soul-1.jpg",
       "size": 10266818,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-1.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-1.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1513,7 +1513,7 @@
       "key": "landingv1/gallery/soul-10.jpg",
       "name": "soul-10.jpg",
       "size": 11065938,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-10.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-10.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1521,7 +1521,7 @@
       "key": "landingv1/gallery/soul-11.jpg",
       "name": "soul-11.jpg",
       "size": 6216491,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-11.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-11.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1529,7 +1529,7 @@
       "key": "landingv1/gallery/soul-12.jpg",
       "name": "soul-12.jpg",
       "size": 7999400,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-12.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-12.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1537,7 +1537,7 @@
       "key": "landingv1/gallery/soul-13.jpg",
       "name": "soul-13.jpg",
       "size": 8574781,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-13.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-13.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1545,7 +1545,7 @@
       "key": "landingv1/gallery/soul-14.jpg",
       "name": "soul-14.jpg",
       "size": 7145611,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-14.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-14.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1553,7 +1553,7 @@
       "key": "landingv1/gallery/soul-15.jpg",
       "name": "soul-15.jpg",
       "size": 6649872,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-15.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-15.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1561,7 +1561,7 @@
       "key": "landingv1/gallery/soul-16.jpg",
       "name": "soul-16.jpg",
       "size": 5139640,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-16.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-16.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1569,7 +1569,7 @@
       "key": "landingv1/gallery/soul-17.jpg",
       "name": "soul-17.jpg",
       "size": 8864082,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-17.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-17.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1577,7 +1577,7 @@
       "key": "landingv1/gallery/soul-18.jpg",
       "name": "soul-18.jpg",
       "size": 7567439,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-18.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-18.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1585,7 +1585,7 @@
       "key": "landingv1/gallery/soul-19.jpg",
       "name": "soul-19.jpg",
       "size": 7795194,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-19.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-19.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1593,7 +1593,7 @@
       "key": "landingv1/gallery/soul-2.jpg",
       "name": "soul-2.jpg",
       "size": 8433250,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-2.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-2.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1601,7 +1601,7 @@
       "key": "landingv1/gallery/soul-20.jpg",
       "name": "soul-20.jpg",
       "size": 7214992,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-20.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-20.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1609,7 +1609,7 @@
       "key": "landingv1/gallery/soul-21.jpg",
       "name": "soul-21.jpg",
       "size": 6409401,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-21.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-21.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1617,7 +1617,7 @@
       "key": "landingv1/gallery/soul-22.jpg",
       "name": "soul-22.jpg",
       "size": 7066698,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-22.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-22.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1625,7 +1625,7 @@
       "key": "landingv1/gallery/soul-3.jpg",
       "name": "soul-3.jpg",
       "size": 9134172,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-3.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-3.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1633,7 +1633,7 @@
       "key": "landingv1/gallery/soul-4.jpg",
       "name": "soul-4.jpg",
       "size": 8320123,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-4.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-4.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1641,7 +1641,7 @@
       "key": "landingv1/gallery/soul-5.jpg",
       "name": "soul-5.jpg",
       "size": 8467116,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-5.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-5.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1649,7 +1649,7 @@
       "key": "landingv1/gallery/soul-6.jpg",
       "name": "soul-6.jpg",
       "size": 10497341,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-6.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-6.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1657,7 +1657,7 @@
       "key": "landingv1/gallery/soul-7.jpg",
       "name": "soul-7.jpg",
       "size": 6049596,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-7.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-7.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1665,7 +1665,7 @@
       "key": "landingv1/gallery/soul-8.jpg",
       "name": "soul-8.jpg",
       "size": 9343903,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-8.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-8.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1673,7 +1673,7 @@
       "key": "landingv1/gallery/soul-9.jpg",
       "name": "soul-9.jpg",
       "size": 9990119,
-      "url": "https://trytaketwo.com/landingv1/gallery/soul-9.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/soul-9.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1681,7 +1681,7 @@
       "key": "landingv1/gallery/videos/ANGLES-poster.jpg",
       "name": "ANGLES-poster.jpg",
       "size": 271046,
-      "url": "https://trytaketwo.com/landingv1/gallery/videos/ANGLES-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/videos/ANGLES-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1689,7 +1689,7 @@
       "key": "landingv1/gallery/videos/INPAINT-poster.jpg",
       "name": "INPAINT-poster.jpg",
       "size": 265016,
-      "url": "https://trytaketwo.com/landingv1/gallery/videos/INPAINT-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/videos/INPAINT-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1697,7 +1697,7 @@
       "key": "landingv1/gallery/videos/KLING MOTION CONTROL (2)-poster.jpg",
       "name": "KLING MOTION CONTROL (2)-poster.jpg",
       "size": 272885,
-      "url": "https://trytaketwo.com/landingv1/gallery/videos/KLING MOTION CONTROL (2)-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/videos/KLING MOTION CONTROL (2)-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1705,7 +1705,7 @@
       "key": "landingv1/gallery/videos/ad1-poster.jpg",
       "name": "ad1-poster.jpg",
       "size": 60852,
-      "url": "https://trytaketwo.com/landingv1/gallery/videos/ad1-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/videos/ad1-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1713,7 +1713,7 @@
       "key": "landingv1/gallery/videos/atheria-co-suede-biker-jacket_ad_final-poster.jpg",
       "name": "atheria-co-suede-biker-jacket_ad_final-poster.jpg",
       "size": 220428,
-      "url": "https://trytaketwo.com/landingv1/gallery/videos/atheria-co-suede-biker-jacket_ad_final-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/videos/atheria-co-suede-biker-jacket_ad_final-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1721,7 +1721,7 @@
       "key": "landingv1/gallery/videos/kling-3-poster.jpg",
       "name": "kling-3-poster.jpg",
       "size": 265149,
-      "url": "https://trytaketwo.com/landingv1/gallery/videos/kling-3-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/videos/kling-3-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1729,7 +1729,7 @@
       "key": "landingv1/gallery/videos/kling-hero-poster.jpg",
       "name": "kling-hero-poster.jpg",
       "size": 188921,
-      "url": "https://trytaketwo.com/landingv1/gallery/videos/kling-hero-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/videos/kling-hero-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1737,7 +1737,7 @@
       "key": "landingv1/gallery/videos/lumibloom-glow-lotion_ad_final-poster.jpg",
       "name": "lumibloom-glow-lotion_ad_final-poster.jpg",
       "size": 90203,
-      "url": "https://trytaketwo.com/landingv1/gallery/videos/lumibloom-glow-lotion_ad_final-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/videos/lumibloom-glow-lotion_ad_final-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1745,7 +1745,7 @@
       "key": "landingv1/gallery/videos/lv-lessence-de-la-jeunesse_ad_final-poster.jpg",
       "name": "lv-lessence-de-la-jeunesse_ad_final-poster.jpg",
       "size": 190814,
-      "url": "https://trytaketwo.com/landingv1/gallery/videos/lv-lessence-de-la-jeunesse_ad_final-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/videos/lv-lessence-de-la-jeunesse_ad_final-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1753,7 +1753,7 @@
       "key": "landingv1/gallery/videos/machine-heart_ad_final-poster.jpg",
       "name": "machine-heart_ad_final-poster.jpg",
       "size": 181844,
-      "url": "https://trytaketwo.com/landingv1/gallery/videos/machine-heart_ad_final-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/videos/machine-heart_ad_final-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1761,7 +1761,7 @@
       "key": "landingv1/gallery/videos/paper-world-2_ad_final-poster.jpg",
       "name": "paper-world-2_ad_final-poster.jpg",
       "size": 335758,
-      "url": "https://trytaketwo.com/landingv1/gallery/videos/paper-world-2_ad_final-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/videos/paper-world-2_ad_final-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1769,7 +1769,7 @@
       "key": "landingv1/gallery/videos/patou-le-petit-patou-shoulder-bag_ad_final-poster.jpg",
       "name": "patou-le-petit-patou-shoulder-bag_ad_final-poster.jpg",
       "size": 194767,
-      "url": "https://trytaketwo.com/landingv1/gallery/videos/patou-le-petit-patou-shoulder-bag_ad_final-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/videos/patou-le-petit-patou-shoulder-bag_ad_final-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1777,7 +1777,7 @@
       "key": "landingv1/gallery/videos/shein-sweatshirt_ad_final-poster.jpg",
       "name": "shein-sweatshirt_ad_final-poster.jpg",
       "size": 84889,
-      "url": "https://trytaketwo.com/landingv1/gallery/videos/shein-sweatshirt_ad_final-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/videos/shein-sweatshirt_ad_final-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1785,7 +1785,7 @@
       "key": "landingv1/gallery/videos/veridia-matte-lipstick_ad_final-poster.jpg",
       "name": "veridia-matte-lipstick_ad_final-poster.jpg",
       "size": 211165,
-      "url": "https://trytaketwo.com/landingv1/gallery/videos/veridia-matte-lipstick_ad_final-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/videos/veridia-matte-lipstick_ad_final-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1793,7 +1793,7 @@
       "key": "landingv1/gallery/videos/zarkino-oversized-square-sunglasses_ad_final-poster.jpg",
       "name": "zarkino-oversized-square-sunglasses_ad_final-poster.jpg",
       "size": 57057,
-      "url": "https://trytaketwo.com/landingv1/gallery/videos/zarkino-oversized-square-sunglasses_ad_final-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/gallery/videos/zarkino-oversized-square-sunglasses_ad_final-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1801,7 +1801,7 @@
       "key": "landingv1/hero-bg.jpg",
       "name": "hero-bg.jpg",
       "size": 293460,
-      "url": "https://trytaketwo.com/landingv1/hero-bg.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/hero-bg.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1809,7 +1809,7 @@
       "key": "landingv1/loader/loader-bg.jpg",
       "name": "loader-bg.jpg",
       "size": 2165072,
-      "url": "https://trytaketwo.com/landingv1/loader/loader-bg.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/loader/loader-bg.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1817,7 +1817,7 @@
       "key": "landingv1/logo.png",
       "name": "logo.png",
       "size": 39553,
-      "url": "https://trytaketwo.com/landingv1/logo.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/logo.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1825,7 +1825,7 @@
       "key": "landingv1/marquee/img1.jpeg",
       "name": "img1.jpeg",
       "size": 180314,
-      "url": "https://trytaketwo.com/landingv1/marquee/img1.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/marquee/img1.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1833,7 +1833,7 @@
       "key": "landingv1/marquee/img10.jpeg",
       "name": "img10.jpeg",
       "size": 95977,
-      "url": "https://trytaketwo.com/landingv1/marquee/img10.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/marquee/img10.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1841,7 +1841,7 @@
       "key": "landingv1/marquee/img11.jpeg",
       "name": "img11.jpeg",
       "size": 115809,
-      "url": "https://trytaketwo.com/landingv1/marquee/img11.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/marquee/img11.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1849,7 +1849,7 @@
       "key": "landingv1/marquee/img12.jpeg",
       "name": "img12.jpeg",
       "size": 399661,
-      "url": "https://trytaketwo.com/landingv1/marquee/img12.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/marquee/img12.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1857,7 +1857,7 @@
       "key": "landingv1/marquee/img13.jpeg",
       "name": "img13.jpeg",
       "size": 639879,
-      "url": "https://trytaketwo.com/landingv1/marquee/img13.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/marquee/img13.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1865,7 +1865,7 @@
       "key": "landingv1/marquee/img14.jpeg",
       "name": "img14.jpeg",
       "size": 554989,
-      "url": "https://trytaketwo.com/landingv1/marquee/img14.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/marquee/img14.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1873,7 +1873,7 @@
       "key": "landingv1/marquee/img15.jpeg",
       "name": "img15.jpeg",
       "size": 86487,
-      "url": "https://trytaketwo.com/landingv1/marquee/img15.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/marquee/img15.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1881,7 +1881,7 @@
       "key": "landingv1/marquee/img16.jpeg",
       "name": "img16.jpeg",
       "size": 398731,
-      "url": "https://trytaketwo.com/landingv1/marquee/img16.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/marquee/img16.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1889,7 +1889,7 @@
       "key": "landingv1/marquee/img2.jpeg",
       "name": "img2.jpeg",
       "size": 203645,
-      "url": "https://trytaketwo.com/landingv1/marquee/img2.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/marquee/img2.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1897,7 +1897,7 @@
       "key": "landingv1/marquee/img3.jpeg",
       "name": "img3.jpeg",
       "size": 298757,
-      "url": "https://trytaketwo.com/landingv1/marquee/img3.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/marquee/img3.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1905,7 +1905,7 @@
       "key": "landingv1/marquee/img4.jpeg",
       "name": "img4.jpeg",
       "size": 146366,
-      "url": "https://trytaketwo.com/landingv1/marquee/img4.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/marquee/img4.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1913,7 +1913,7 @@
       "key": "landingv1/marquee/img5.jpeg",
       "name": "img5.jpeg",
       "size": 139688,
-      "url": "https://trytaketwo.com/landingv1/marquee/img5.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/marquee/img5.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1921,7 +1921,7 @@
       "key": "landingv1/marquee/img6.jpeg",
       "name": "img6.jpeg",
       "size": 252366,
-      "url": "https://trytaketwo.com/landingv1/marquee/img6.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/marquee/img6.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1929,7 +1929,7 @@
       "key": "landingv1/marquee/img7.jpeg",
       "name": "img7.jpeg",
       "size": 293823,
-      "url": "https://trytaketwo.com/landingv1/marquee/img7.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/marquee/img7.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1937,7 +1937,7 @@
       "key": "landingv1/marquee/img8.jpeg",
       "name": "img8.jpeg",
       "size": 169201,
-      "url": "https://trytaketwo.com/landingv1/marquee/img8.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/marquee/img8.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1945,7 +1945,7 @@
       "key": "landingv1/marquee/img9.jpeg",
       "name": "img9.jpeg",
       "size": 130782,
-      "url": "https://trytaketwo.com/landingv1/marquee/img9.jpeg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/marquee/img9.jpeg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1953,7 +1953,7 @@
       "key": "landingv1/models/elevenlabs.svg",
       "name": "elevenlabs.svg",
       "size": 211,
-      "url": "https://trytaketwo.com/landingv1/models/elevenlabs.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/models/elevenlabs.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1961,7 +1961,7 @@
       "key": "landingv1/models/flux.svg",
       "name": "flux.svg",
       "size": 204,
-      "url": "https://trytaketwo.com/landingv1/models/flux.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/models/flux.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1969,7 +1969,7 @@
       "key": "landingv1/models/ideogram.svg",
       "name": "ideogram.svg",
       "size": 209,
-      "url": "https://trytaketwo.com/landingv1/models/ideogram.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/models/ideogram.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1977,7 +1977,7 @@
       "key": "landingv1/models/kling.svg",
       "name": "kling.svg",
       "size": 206,
-      "url": "https://trytaketwo.com/landingv1/models/kling.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/models/kling.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1985,7 +1985,7 @@
       "key": "landingv1/models/luma.svg",
       "name": "luma.svg",
       "size": 204,
-      "url": "https://trytaketwo.com/landingv1/models/luma.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/models/luma.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -1993,7 +1993,7 @@
       "key": "landingv1/models/minimax.svg",
       "name": "minimax.svg",
       "size": 208,
-      "url": "https://trytaketwo.com/landingv1/models/minimax.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/models/minimax.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2001,7 +2001,7 @@
       "key": "landingv1/models/openai.svg",
       "name": "openai.svg",
       "size": 207,
-      "url": "https://trytaketwo.com/landingv1/models/openai.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/models/openai.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2009,7 +2009,7 @@
       "key": "landingv1/models/runway.svg",
       "name": "runway.svg",
       "size": 207,
-      "url": "https://trytaketwo.com/landingv1/models/runway.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/models/runway.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2017,7 +2017,7 @@
       "key": "landingv1/projects/project1.jpg",
       "name": "project1.jpg",
       "size": 396520,
-      "url": "https://trytaketwo.com/landingv1/projects/project1.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/projects/project1.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2025,7 +2025,7 @@
       "key": "landingv1/projects/project2.jpg",
       "name": "project2.jpg",
       "size": 299123,
-      "url": "https://trytaketwo.com/landingv1/projects/project2.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/projects/project2.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2033,7 +2033,7 @@
       "key": "landingv1/projects/project3.jpg",
       "name": "project3.jpg",
       "size": 472182,
-      "url": "https://trytaketwo.com/landingv1/projects/project3.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/projects/project3.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2041,7 +2041,7 @@
       "key": "landingv1/projects/project4.jpg",
       "name": "project4.jpg",
       "size": 171721,
-      "url": "https://trytaketwo.com/landingv1/projects/project4.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/projects/project4.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2049,7 +2049,7 @@
       "key": "landingv1/projects/project5.jpg",
       "name": "project5.jpg",
       "size": 279637,
-      "url": "https://trytaketwo.com/landingv1/projects/project5.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/projects/project5.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2057,7 +2057,7 @@
       "key": "landingv1/projects/project6.jpg",
       "name": "project6.jpg",
       "size": 93944,
-      "url": "https://trytaketwo.com/landingv1/projects/project6.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/projects/project6.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2065,7 +2065,7 @@
       "key": "landingv1/projects/project7.jpg",
       "name": "project7.jpg",
       "size": 670121,
-      "url": "https://trytaketwo.com/landingv1/projects/project7.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/projects/project7.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2073,7 +2073,7 @@
       "key": "landingv1/projects/project8.jpg",
       "name": "project8.jpg",
       "size": 265577,
-      "url": "https://trytaketwo.com/landingv1/projects/project8.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/projects/project8.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2081,7 +2081,7 @@
       "key": "landingv1/reel-poster.jpg",
       "name": "reel-poster.jpg",
       "size": 328558,
-      "url": "https://trytaketwo.com/landingv1/reel-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/reel-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2089,7 +2089,7 @@
       "key": "landingv1/spotlight/spotlight-1.jpg",
       "name": "spotlight-1.jpg",
       "size": 375001,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-1.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-1.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2097,7 +2097,7 @@
       "key": "landingv1/spotlight/spotlight-10.jpg",
       "name": "spotlight-10.jpg",
       "size": 354552,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-10.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-10.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2105,7 +2105,7 @@
       "key": "landingv1/spotlight/spotlight-11.jpg",
       "name": "spotlight-11.jpg",
       "size": 349963,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-11.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-11.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2113,7 +2113,7 @@
       "key": "landingv1/spotlight/spotlight-12.jpg",
       "name": "spotlight-12.jpg",
       "size": 383692,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-12.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-12.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2121,7 +2121,7 @@
       "key": "landingv1/spotlight/spotlight-13.jpg",
       "name": "spotlight-13.jpg",
       "size": 369818,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-13.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-13.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2129,7 +2129,7 @@
       "key": "landingv1/spotlight/spotlight-14.jpg",
       "name": "spotlight-14.jpg",
       "size": 463203,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-14.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-14.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2137,7 +2137,7 @@
       "key": "landingv1/spotlight/spotlight-15.jpg",
       "name": "spotlight-15.jpg",
       "size": 354280,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-15.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-15.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2145,7 +2145,7 @@
       "key": "landingv1/spotlight/spotlight-16.jpg",
       "name": "spotlight-16.jpg",
       "size": 359621,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-16.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-16.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2153,7 +2153,7 @@
       "key": "landingv1/spotlight/spotlight-17.jpg",
       "name": "spotlight-17.jpg",
       "size": 416725,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-17.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-17.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2161,7 +2161,7 @@
       "key": "landingv1/spotlight/spotlight-18.jpg",
       "name": "spotlight-18.jpg",
       "size": 410965,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-18.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-18.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2169,7 +2169,7 @@
       "key": "landingv1/spotlight/spotlight-19.jpg",
       "name": "spotlight-19.jpg",
       "size": 385385,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-19.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-19.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2177,7 +2177,7 @@
       "key": "landingv1/spotlight/spotlight-2.jpg",
       "name": "spotlight-2.jpg",
       "size": 369921,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-2.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-2.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2185,7 +2185,7 @@
       "key": "landingv1/spotlight/spotlight-20.jpg",
       "name": "spotlight-20.jpg",
       "size": 383973,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-20.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-20.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2193,7 +2193,7 @@
       "key": "landingv1/spotlight/spotlight-3.jpg",
       "name": "spotlight-3.jpg",
       "size": 358787,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-3.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-3.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2201,7 +2201,7 @@
       "key": "landingv1/spotlight/spotlight-4.jpg",
       "name": "spotlight-4.jpg",
       "size": 385292,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-4.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-4.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2209,7 +2209,7 @@
       "key": "landingv1/spotlight/spotlight-5.jpg",
       "name": "spotlight-5.jpg",
       "size": 362419,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-5.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-5.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2217,7 +2217,7 @@
       "key": "landingv1/spotlight/spotlight-6.jpg",
       "name": "spotlight-6.jpg",
       "size": 353373,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-6.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-6.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2225,7 +2225,7 @@
       "key": "landingv1/spotlight/spotlight-7.jpg",
       "name": "spotlight-7.jpg",
       "size": 410617,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-7.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-7.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2233,7 +2233,7 @@
       "key": "landingv1/spotlight/spotlight-8.jpg",
       "name": "spotlight-8.jpg",
       "size": 361275,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-8.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-8.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2241,7 +2241,7 @@
       "key": "landingv1/spotlight/spotlight-9.jpg",
       "name": "spotlight-9.jpg",
       "size": 339724,
-      "url": "https://trytaketwo.com/landingv1/spotlight/spotlight-9.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/spotlight/spotlight-9.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2249,7 +2249,7 @@
       "key": "landingv1/taketwo-banner.png",
       "name": "taketwo-banner.png",
       "size": 320757,
-      "url": "https://trytaketwo.com/landingv1/taketwo-banner.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/taketwo-banner.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2257,7 +2257,7 @@
       "key": "landingv1/taketwo-presents-poster.jpg",
       "name": "taketwo-presents-poster.jpg",
       "size": 231009,
-      "url": "https://trytaketwo.com/landingv1/taketwo-presents-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/taketwo-presents-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2265,7 +2265,7 @@
       "key": "landingv1/team/team-1.jpg",
       "name": "team-1.jpg",
       "size": 120790,
-      "url": "https://trytaketwo.com/landingv1/team/team-1.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/team/team-1.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2273,7 +2273,7 @@
       "key": "landingv1/team/team-2.jpg",
       "name": "team-2.jpg",
       "size": 170902,
-      "url": "https://trytaketwo.com/landingv1/team/team-2.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/team/team-2.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2281,7 +2281,7 @@
       "key": "landingv1/team/team-3.jpg",
       "name": "team-3.jpg",
       "size": 134168,
-      "url": "https://trytaketwo.com/landingv1/team/team-3.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/team/team-3.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2289,7 +2289,7 @@
       "key": "landingv1/team/team-4.jpg",
       "name": "team-4.jpg",
       "size": 140526,
-      "url": "https://trytaketwo.com/landingv1/team/team-4.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/team/team-4.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2297,7 +2297,7 @@
       "key": "landingv1/team/team-5.jpg",
       "name": "team-5.jpg",
       "size": 178933,
-      "url": "https://trytaketwo.com/landingv1/team/team-5.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/team/team-5.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2305,7 +2305,7 @@
       "key": "landingv1/work/work1.jpg",
       "name": "work1.jpg",
       "size": 396520,
-      "url": "https://trytaketwo.com/landingv1/work/work1.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/work/work1.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2313,7 +2313,7 @@
       "key": "landingv1/work/work2.jpg",
       "name": "work2.jpg",
       "size": 386210,
-      "url": "https://trytaketwo.com/landingv1/work/work2.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/work/work2.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2321,7 +2321,7 @@
       "key": "landingv1/work/work3.jpg",
       "name": "work3.jpg",
       "size": 296188,
-      "url": "https://trytaketwo.com/landingv1/work/work3.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/landingv1/work/work3.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2329,7 +2329,7 @@
       "key": "logos/bytedance.svg",
       "name": "bytedance.svg",
       "size": 998,
-      "url": "https://trytaketwo.com/logos/bytedance.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/logos/bytedance.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2337,7 +2337,7 @@
       "key": "logos/deepmind.svg",
       "name": "deepmind.svg",
       "size": 865,
-      "url": "https://trytaketwo.com/logos/deepmind.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/logos/deepmind.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2345,7 +2345,7 @@
       "key": "logos/elevenlabs.svg",
       "name": "elevenlabs.svg",
       "size": 281,
-      "url": "https://trytaketwo.com/logos/elevenlabs.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/logos/elevenlabs.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2353,7 +2353,7 @@
       "key": "logos/google.svg",
       "name": "google.svg",
       "size": 965,
-      "url": "https://trytaketwo.com/logos/google.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/logos/google.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2361,7 +2361,7 @@
       "key": "logos/grok.svg",
       "name": "grok.svg",
       "size": 801,
-      "url": "https://trytaketwo.com/logos/grok.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/logos/grok.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2369,7 +2369,7 @@
       "key": "logos/ideogram.svg",
       "name": "ideogram.svg",
       "size": 2548,
-      "url": "https://trytaketwo.com/logos/ideogram.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/logos/ideogram.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2377,7 +2377,7 @@
       "key": "logos/kling.svg",
       "name": "kling.svg",
       "size": 2282,
-      "url": "https://trytaketwo.com/logos/kling.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/logos/kling.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2385,7 +2385,7 @@
       "key": "logos/midjourney.svg",
       "name": "midjourney.svg",
       "size": 4057,
-      "url": "https://trytaketwo.com/logos/midjourney.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/logos/midjourney.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2393,7 +2393,7 @@
       "key": "logos/qwen.svg",
       "name": "qwen.svg",
       "size": 2087,
-      "url": "https://trytaketwo.com/logos/qwen.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/logos/qwen.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2401,7 +2401,7 @@
       "key": "logos/recraft.svg",
       "name": "recraft.svg",
       "size": 607,
-      "url": "https://trytaketwo.com/logos/recraft.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/logos/recraft.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2409,7 +2409,7 @@
       "key": "logos/sora.svg",
       "name": "sora.svg",
       "size": 4600,
-      "url": "https://trytaketwo.com/logos/sora.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/logos/sora.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2417,7 +2417,7 @@
       "key": "logos/suno.svg",
       "name": "suno.svg",
       "size": 353,
-      "url": "https://trytaketwo.com/logos/suno.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/logos/suno.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2425,7 +2425,7 @@
       "key": "logos/topaz.svg",
       "name": "topaz.svg",
       "size": 340,
-      "url": "https://trytaketwo.com/logos/topaz.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/logos/topaz.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2433,7 +2433,7 @@
       "key": "og_image.png",
       "name": "og_image.png",
       "size": 932630,
-      "url": "https://trytaketwo.com/og_image.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/og_image.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2441,7 +2441,7 @@
       "key": "placeholder.svg",
       "name": "placeholder.svg",
       "size": 3253,
-      "url": "https://trytaketwo.com/placeholder.svg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/placeholder.svg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2449,7 +2449,7 @@
       "key": "presets/bali/bali-first-shot.png",
       "name": "bali-first-shot.png",
       "size": 11896850,
-      "url": "https://trytaketwo.com/presets/bali/bali-first-shot.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/presets/bali/bali-first-shot.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2457,7 +2457,7 @@
       "key": "presets/bali/bali-jogging.png",
       "name": "bali-jogging.png",
       "size": 21342116,
-      "url": "https://trytaketwo.com/presets/bali/bali-jogging.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/presets/bali/bali-jogging.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2465,7 +2465,7 @@
       "key": "presets/bali/bali-pushup.png",
       "name": "bali-pushup.png",
       "size": 26210905,
-      "url": "https://trytaketwo.com/presets/bali/bali-pushup.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/presets/bali/bali-pushup.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2473,7 +2473,7 @@
       "key": "presets/bali/bali-swimming.png",
       "name": "bali-swimming.png",
       "size": 18450002,
-      "url": "https://trytaketwo.com/presets/bali/bali-swimming.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/presets/bali/bali-swimming.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2481,7 +2481,7 @@
       "key": "presets/bali/coffee-shot.png",
       "name": "coffee-shot.png",
       "size": 23345282,
-      "url": "https://trytaketwo.com/presets/bali/coffee-shot.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/presets/bali/coffee-shot.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2489,7 +2489,7 @@
       "key": "presets/bali/egg-shot.png",
       "name": "egg-shot.png",
       "size": 22939684,
-      "url": "https://trytaketwo.com/presets/bali/egg-shot.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/presets/bali/egg-shot.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2497,7 +2497,7 @@
       "key": "presets/bali/toast-shot.png",
       "name": "toast-shot.png",
       "size": 14928920,
-      "url": "https://trytaketwo.com/presets/bali/toast-shot.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/presets/bali/toast-shot.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2505,7 +2505,7 @@
       "key": "presets/paris/coffee-shot.png",
       "name": "coffee-shot.png",
       "size": 23345282,
-      "url": "https://trytaketwo.com/presets/paris/coffee-shot.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/presets/paris/coffee-shot.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2513,7 +2513,7 @@
       "key": "presets/paris/egg-shot.png",
       "name": "egg-shot.png",
       "size": 22939684,
-      "url": "https://trytaketwo.com/presets/paris/egg-shot.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/presets/paris/egg-shot.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2521,7 +2521,7 @@
       "key": "presets/paris/paris-first-shot.png",
       "name": "paris-first-shot.png",
       "size": 16280722,
-      "url": "https://trytaketwo.com/presets/paris/paris-first-shot.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/presets/paris/paris-first-shot.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2529,7 +2529,7 @@
       "key": "presets/paris/paris-jogging.png",
       "name": "paris-jogging.png",
       "size": 29419792,
-      "url": "https://trytaketwo.com/presets/paris/paris-jogging.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/presets/paris/paris-jogging.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2537,7 +2537,7 @@
       "key": "presets/paris/paris-rooftop.png",
       "name": "paris-rooftop.png",
       "size": 18345375,
-      "url": "https://trytaketwo.com/presets/paris/paris-rooftop.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/presets/paris/paris-rooftop.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2545,7 +2545,7 @@
       "key": "presets/paris/paris-walking.png",
       "name": "paris-walking.png",
       "size": 16599347,
-      "url": "https://trytaketwo.com/presets/paris/paris-walking.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/presets/paris/paris-walking.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2553,7 +2553,7 @@
       "key": "presets/paris/toast-shot.png",
       "name": "toast-shot.png",
       "size": 14928920,
-      "url": "https://trytaketwo.com/presets/paris/toast-shot.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/presets/paris/toast-shot.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2561,7 +2561,7 @@
       "key": "showcase/enhance-demo.png",
       "name": "enhance-demo.png",
       "size": 1848750,
-      "url": "https://trytaketwo.com/showcase/enhance-demo.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/showcase/enhance-demo.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2569,7 +2569,7 @@
       "key": "showcase/style-demo.png",
       "name": "style-demo.png",
       "size": 4920395,
-      "url": "https://trytaketwo.com/showcase/style-demo.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/showcase/style-demo.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2577,7 +2577,7 @@
       "key": "taketwo-logo.png",
       "name": "taketwo-logo.png",
       "size": 39553,
-      "url": "https://trytaketwo.com/taketwo-logo.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/taketwo-logo.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2585,7 +2585,7 @@
       "key": "thumbnails/data.jpg",
       "name": "data.jpg",
       "size": 60513,
-      "url": "https://trytaketwo.com/thumbnails/data.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/thumbnails/data.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2593,7 +2593,7 @@
       "key": "thumbnails/data.mov",
       "name": "data.mov",
       "size": 4053403,
-      "url": "https://trytaketwo.com/thumbnails/data.mov",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/thumbnails/data.mov",
       "type": "video",
       "source": "taketwoapp"
     },
@@ -2601,7 +2601,7 @@
       "key": "thumbnails/kinetic.jpg",
       "name": "kinetic.jpg",
       "size": 49339,
-      "url": "https://trytaketwo.com/thumbnails/kinetic.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/thumbnails/kinetic.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2609,7 +2609,7 @@
       "key": "thumbnails/kinetic.mov",
       "name": "kinetic.mov",
       "size": 40495567,
-      "url": "https://trytaketwo.com/thumbnails/kinetic.mov",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/thumbnails/kinetic.mov",
       "type": "video",
       "source": "taketwoapp"
     },
@@ -2617,7 +2617,7 @@
       "key": "thumbnails/saas.jpg",
       "name": "saas.jpg",
       "size": 54928,
-      "url": "https://trytaketwo.com/thumbnails/saas.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/thumbnails/saas.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2625,7 +2625,7 @@
       "key": "thumbnails/saas.mov",
       "name": "saas.mov",
       "size": 1406050,
-      "url": "https://trytaketwo.com/thumbnails/saas.mov",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/thumbnails/saas.mov",
       "type": "video",
       "source": "taketwoapp"
     },
@@ -2633,7 +2633,7 @@
       "key": "videos/canvas/0.jpg",
       "name": "0.jpg",
       "size": 52397,
-      "url": "https://trytaketwo.com/videos/canvas/0.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/canvas/0.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2641,7 +2641,7 @@
       "key": "videos/canvas/1.jpg",
       "name": "1.jpg",
       "size": 117369,
-      "url": "https://trytaketwo.com/videos/canvas/1.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/canvas/1.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2649,7 +2649,7 @@
       "key": "videos/canvas/10.jpg",
       "name": "10.jpg",
       "size": 110935,
-      "url": "https://trytaketwo.com/videos/canvas/10.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/canvas/10.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2657,7 +2657,7 @@
       "key": "videos/canvas/2.jpg",
       "name": "2.jpg",
       "size": 123490,
-      "url": "https://trytaketwo.com/videos/canvas/2.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/canvas/2.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2665,7 +2665,7 @@
       "key": "videos/canvas/3.jpg",
       "name": "3.jpg",
       "size": 97754,
-      "url": "https://trytaketwo.com/videos/canvas/3.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/canvas/3.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2673,7 +2673,7 @@
       "key": "videos/canvas/4.jpg",
       "name": "4.jpg",
       "size": 70840,
-      "url": "https://trytaketwo.com/videos/canvas/4.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/canvas/4.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2681,7 +2681,7 @@
       "key": "videos/canvas/5.jpg",
       "name": "5.jpg",
       "size": 45681,
-      "url": "https://trytaketwo.com/videos/canvas/5.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/canvas/5.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2689,7 +2689,7 @@
       "key": "videos/canvas/6.jpg",
       "name": "6.jpg",
       "size": 107119,
-      "url": "https://trytaketwo.com/videos/canvas/6.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/canvas/6.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2697,7 +2697,7 @@
       "key": "videos/canvas/7.jpg",
       "name": "7.jpg",
       "size": 58859,
-      "url": "https://trytaketwo.com/videos/canvas/7.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/canvas/7.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2705,7 +2705,7 @@
       "key": "videos/canvas/8.jpg",
       "name": "8.jpg",
       "size": 82353,
-      "url": "https://trytaketwo.com/videos/canvas/8.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/canvas/8.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2713,7 +2713,7 @@
       "key": "videos/canvas/9.jpg",
       "name": "9.jpg",
       "size": 112384,
-      "url": "https://trytaketwo.com/videos/canvas/9.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/canvas/9.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2721,7 +2721,7 @@
       "key": "videos/canvas/canvas-promo-poster.jpg",
       "name": "canvas-promo-poster.jpg",
       "size": 65427,
-      "url": "https://trytaketwo.com/videos/canvas/canvas-promo-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/canvas/canvas-promo-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2729,7 +2729,7 @@
       "key": "videos/canvas/explore.png",
       "name": "explore.png",
       "size": 4919369,
-      "url": "https://trytaketwo.com/videos/canvas/explore.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/canvas/explore.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2737,7 +2737,7 @@
       "key": "videos/canvas/promo/vogue1.png",
       "name": "vogue1.png",
       "size": 1099802,
-      "url": "https://trytaketwo.com/videos/canvas/promo/vogue1.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/canvas/promo/vogue1.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2745,7 +2745,7 @@
       "key": "videos/canvas/promo/vogue2.png",
       "name": "vogue2.png",
       "size": 2085080,
-      "url": "https://trytaketwo.com/videos/canvas/promo/vogue2.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/canvas/promo/vogue2.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2753,7 +2753,7 @@
       "key": "videos/canvas/promo/vogue3.png",
       "name": "vogue3.png",
       "size": 1523452,
-      "url": "https://trytaketwo.com/videos/canvas/promo/vogue3.png",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/canvas/promo/vogue3.png",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2761,7 +2761,7 @@
       "key": "videos/motion-gallery/360-orbit-poster.jpg",
       "name": "360-orbit-poster.jpg",
       "size": 153917,
-      "url": "https://trytaketwo.com/videos/motion-gallery/360-orbit-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/360-orbit-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2769,7 +2769,7 @@
       "key": "videos/motion-gallery/3d-rotation-poster.jpg",
       "name": "3d-rotation-poster.jpg",
       "size": 71728,
-      "url": "https://trytaketwo.com/videos/motion-gallery/3d-rotation-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/3d-rotation-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2777,7 +2777,7 @@
       "key": "videos/motion-gallery/action-run-poster.jpg",
       "name": "action-run-poster.jpg",
       "size": 167169,
-      "url": "https://trytaketwo.com/videos/motion-gallery/action-run-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/action-run-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2785,7 +2785,7 @@
       "key": "videos/motion-gallery/agent-reveal-poster.jpg",
       "name": "agent-reveal-poster.jpg",
       "size": 71728,
-      "url": "https://trytaketwo.com/videos/motion-gallery/agent-reveal-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/agent-reveal-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2793,7 +2793,7 @@
       "key": "videos/motion-gallery/angel-wings-poster.jpg",
       "name": "angel-wings-poster.jpg",
       "size": 167169,
-      "url": "https://trytaketwo.com/videos/motion-gallery/angel-wings-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/angel-wings-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2801,7 +2801,7 @@
       "key": "videos/motion-gallery/arc-left-poster.jpg",
       "name": "arc-left-poster.jpg",
       "size": 153917,
-      "url": "https://trytaketwo.com/videos/motion-gallery/arc-left-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/arc-left-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2809,7 +2809,7 @@
       "key": "videos/motion-gallery/arc-right-poster.jpg",
       "name": "arc-right-poster.jpg",
       "size": 153917,
-      "url": "https://trytaketwo.com/videos/motion-gallery/arc-right-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/arc-right-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2817,7 +2817,7 @@
       "key": "videos/motion-gallery/baseball-kick-poster.jpg",
       "name": "baseball-kick-poster.jpg",
       "size": 167169,
-      "url": "https://trytaketwo.com/videos/motion-gallery/baseball-kick-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/baseball-kick-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2825,7 +2825,7 @@
       "key": "videos/motion-gallery/basketball-dunk-poster.jpg",
       "name": "basketball-dunk-poster.jpg",
       "size": 167169,
-      "url": "https://trytaketwo.com/videos/motion-gallery/basketball-dunk-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/basketball-dunk-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2833,7 +2833,7 @@
       "key": "videos/motion-gallery/black-tears-poster.jpg",
       "name": "black-tears-poster.jpg",
       "size": 120400,
-      "url": "https://trytaketwo.com/videos/motion-gallery/black-tears-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/black-tears-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2841,7 +2841,7 @@
       "key": "videos/motion-gallery/black-wing-poster.jpg",
       "name": "black-wing-poster.jpg",
       "size": 75585,
-      "url": "https://trytaketwo.com/videos/motion-gallery/black-wing-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/black-wing-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2849,7 +2849,7 @@
       "key": "videos/motion-gallery/bloom-mouth-poster.jpg",
       "name": "bloom-mouth-poster.jpg",
       "size": 60715,
-      "url": "https://trytaketwo.com/videos/motion-gallery/bloom-mouth-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/bloom-mouth-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2857,7 +2857,7 @@
       "key": "videos/motion-gallery/boxing-poster.jpg",
       "name": "boxing-poster.jpg",
       "size": 167169,
-      "url": "https://trytaketwo.com/videos/motion-gallery/boxing-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/boxing-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2865,7 +2865,7 @@
       "key": "videos/motion-gallery/buckle-up-poster.jpg",
       "name": "buckle-up-poster.jpg",
       "size": 167169,
-      "url": "https://trytaketwo.com/videos/motion-gallery/buckle-up-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/buckle-up-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2873,7 +2873,7 @@
       "key": "videos/motion-gallery/building-explosion-poster.jpg",
       "name": "building-explosion-poster.jpg",
       "size": 36395,
-      "url": "https://trytaketwo.com/videos/motion-gallery/building-explosion-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/building-explosion-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2881,7 +2881,7 @@
       "key": "videos/motion-gallery/bullet-time-poster.jpg",
       "name": "bullet-time-poster.jpg",
       "size": 97543,
-      "url": "https://trytaketwo.com/videos/motion-gallery/bullet-time-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/bullet-time-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2889,7 +2889,7 @@
       "key": "videos/motion-gallery/car-chasing-poster.jpg",
       "name": "car-chasing-poster.jpg",
       "size": 127739,
-      "url": "https://trytaketwo.com/videos/motion-gallery/car-chasing-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/car-chasing-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2897,7 +2897,7 @@
       "key": "videos/motion-gallery/car-explosion-poster.jpg",
       "name": "car-explosion-poster.jpg",
       "size": 36395,
-      "url": "https://trytaketwo.com/videos/motion-gallery/car-explosion-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/car-explosion-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2905,7 +2905,7 @@
       "key": "videos/motion-gallery/car-grip-poster.jpg",
       "name": "car-grip-poster.jpg",
       "size": 127739,
-      "url": "https://trytaketwo.com/videos/motion-gallery/car-grip-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/car-grip-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2913,7 +2913,7 @@
       "key": "videos/motion-gallery/catwalk-poster.jpg",
       "name": "catwalk-poster.jpg",
       "size": 71728,
-      "url": "https://trytaketwo.com/videos/motion-gallery/catwalk-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/catwalk-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2921,7 +2921,7 @@
       "key": "videos/motion-gallery/clone-explosion-poster.jpg",
       "name": "clone-explosion-poster.jpg",
       "size": 167169,
-      "url": "https://trytaketwo.com/videos/motion-gallery/clone-explosion-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/clone-explosion-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2929,7 +2929,7 @@
       "key": "videos/motion-gallery/crane-down-poster.jpg",
       "name": "crane-down-poster.jpg",
       "size": 168566,
-      "url": "https://trytaketwo.com/videos/motion-gallery/crane-down-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/crane-down-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2937,7 +2937,7 @@
       "key": "videos/motion-gallery/crane-over-the-head-poster.jpg",
       "name": "crane-over-the-head-poster.jpg",
       "size": 147621,
-      "url": "https://trytaketwo.com/videos/motion-gallery/crane-over-the-head-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/crane-over-the-head-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2945,7 +2945,7 @@
       "key": "videos/motion-gallery/crane-up-poster.jpg",
       "name": "crane-up-poster.jpg",
       "size": 173643,
-      "url": "https://trytaketwo.com/videos/motion-gallery/crane-up-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/crane-up-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2953,7 +2953,7 @@
       "key": "videos/motion-gallery/crash-zoom-in-poster.jpg",
       "name": "crash-zoom-in-poster.jpg",
       "size": 121081,
-      "url": "https://trytaketwo.com/videos/motion-gallery/crash-zoom-in-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/crash-zoom-in-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2961,7 +2961,7 @@
       "key": "videos/motion-gallery/crash-zoom-out-poster.jpg",
       "name": "crash-zoom-out-poster.jpg",
       "size": 121081,
-      "url": "https://trytaketwo.com/videos/motion-gallery/crash-zoom-out-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/crash-zoom-out-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2969,7 +2969,7 @@
       "key": "videos/motion-gallery/datamosh-poster.jpg",
       "name": "datamosh-poster.jpg",
       "size": 70060,
-      "url": "https://trytaketwo.com/videos/motion-gallery/datamosh-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/datamosh-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2977,7 +2977,7 @@
       "key": "videos/motion-gallery/diamond-poster.jpg",
       "name": "diamond-poster.jpg",
       "size": 60715,
-      "url": "https://trytaketwo.com/videos/motion-gallery/diamond-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/diamond-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2985,7 +2985,7 @@
       "key": "videos/motion-gallery/dirty-lens-poster.jpg",
       "name": "dirty-lens-poster.jpg",
       "size": 70060,
-      "url": "https://trytaketwo.com/videos/motion-gallery/dirty-lens-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/dirty-lens-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -2993,7 +2993,7 @@
       "key": "videos/motion-gallery/disintegration-poster.jpg",
       "name": "disintegration-poster.jpg",
       "size": 120400,
-      "url": "https://trytaketwo.com/videos/motion-gallery/disintegration-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/disintegration-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3001,7 +3001,7 @@
       "key": "videos/motion-gallery/dolly-in-poster.jpg",
       "name": "dolly-in-poster.jpg",
       "size": 99673,
-      "url": "https://trytaketwo.com/videos/motion-gallery/dolly-in-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/dolly-in-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3009,7 +3009,7 @@
       "key": "videos/motion-gallery/dolly-left-poster.jpg",
       "name": "dolly-left-poster.jpg",
       "size": 99673,
-      "url": "https://trytaketwo.com/videos/motion-gallery/dolly-left-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/dolly-left-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3017,7 +3017,7 @@
       "key": "videos/motion-gallery/dolly-out-poster.jpg",
       "name": "dolly-out-poster.jpg",
       "size": 99673,
-      "url": "https://trytaketwo.com/videos/motion-gallery/dolly-out-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/dolly-out-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3025,7 +3025,7 @@
       "key": "videos/motion-gallery/dolly-right-poster.jpg",
       "name": "dolly-right-poster.jpg",
       "size": 99673,
-      "url": "https://trytaketwo.com/videos/motion-gallery/dolly-right-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/dolly-right-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3033,7 +3033,7 @@
       "key": "videos/motion-gallery/dolly-zoom-in-poster.jpg",
       "name": "dolly-zoom-in-poster.jpg",
       "size": 72488,
-      "url": "https://trytaketwo.com/videos/motion-gallery/dolly-zoom-in-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/dolly-zoom-in-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3041,7 +3041,7 @@
       "key": "videos/motion-gallery/double-dolly-poster.jpg",
       "name": "double-dolly-poster.jpg",
       "size": 69892,
-      "url": "https://trytaketwo.com/videos/motion-gallery/double-dolly-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/double-dolly-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3049,7 +3049,7 @@
       "key": "videos/motion-gallery/downhill-pov-poster.jpg",
       "name": "downhill-pov-poster.jpg",
       "size": 69225,
-      "url": "https://trytaketwo.com/videos/motion-gallery/downhill-pov-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/downhill-pov-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3057,7 +3057,7 @@
       "key": "videos/motion-gallery/duplicate-poster.jpg",
       "name": "duplicate-poster.jpg",
       "size": 120400,
-      "url": "https://trytaketwo.com/videos/motion-gallery/duplicate-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/duplicate-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3065,7 +3065,7 @@
       "key": "videos/motion-gallery/dutch-angle-poster.jpg",
       "name": "dutch-angle-poster.jpg",
       "size": 152258,
-      "url": "https://trytaketwo.com/videos/motion-gallery/dutch-angle-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/dutch-angle-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3073,7 +3073,7 @@
       "key": "videos/motion-gallery/earth-zoom-out-poster.jpg",
       "name": "earth-zoom-out-poster.jpg",
       "size": 101471,
-      "url": "https://trytaketwo.com/videos/motion-gallery/earth-zoom-out-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/earth-zoom-out-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3081,7 +3081,7 @@
       "key": "videos/motion-gallery/eyes-in-poster.jpg",
       "name": "eyes-in-poster.jpg",
       "size": 69225,
-      "url": "https://trytaketwo.com/videos/motion-gallery/eyes-in-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/eyes-in-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3089,7 +3089,7 @@
       "key": "videos/motion-gallery/face-punch-poster.jpg",
       "name": "face-punch-poster.jpg",
       "size": 120400,
-      "url": "https://trytaketwo.com/videos/motion-gallery/face-punch-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/face-punch-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3097,7 +3097,7 @@
       "key": "videos/motion-gallery/firebreath-poster.jpg",
       "name": "firebreath-poster.jpg",
       "size": 70060,
-      "url": "https://trytaketwo.com/videos/motion-gallery/firebreath-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/firebreath-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3105,7 +3105,7 @@
       "key": "videos/motion-gallery/flood-poster.jpg",
       "name": "flood-poster.jpg",
       "size": 161052,
-      "url": "https://trytaketwo.com/videos/motion-gallery/flood-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/flood-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3113,7 +3113,7 @@
       "key": "videos/motion-gallery/floral-eyes-poster.jpg",
       "name": "floral-eyes-poster.jpg",
       "size": 60715,
-      "url": "https://trytaketwo.com/videos/motion-gallery/floral-eyes-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/floral-eyes-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3121,7 +3121,7 @@
       "key": "videos/motion-gallery/flying-poster.jpg",
       "name": "flying-poster.jpg",
       "size": 167169,
-      "url": "https://trytaketwo.com/videos/motion-gallery/flying-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/flying-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3129,7 +3129,7 @@
       "key": "videos/motion-gallery/focus-change-poster.jpg",
       "name": "focus-change-poster.jpg",
       "size": 98578,
-      "url": "https://trytaketwo.com/videos/motion-gallery/focus-change-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/focus-change-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3137,7 +3137,7 @@
       "key": "videos/motion-gallery/paint-splash-poster.jpg",
       "name": "paint-splash-poster.jpg",
       "size": 55373,
-      "url": "https://trytaketwo.com/videos/motion-gallery/paint-splash-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/paint-splash-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3145,7 +3145,7 @@
       "key": "videos/motion-gallery/set-on-fire-poster.jpg",
       "name": "set-on-fire-poster.jpg",
       "size": 36395,
-      "url": "https://trytaketwo.com/videos/motion-gallery/set-on-fire-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/set-on-fire-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3153,7 +3153,7 @@
       "key": "videos/motion-gallery/skateboard-glide-poster.jpg",
       "name": "skateboard-glide-poster.jpg",
       "size": 94952,
-      "url": "https://trytaketwo.com/videos/motion-gallery/skateboard-glide-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/skateboard-glide-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3161,7 +3161,7 @@
       "key": "videos/motion-gallery/super-dolly-out-poster.jpg",
       "name": "super-dolly-out-poster.jpg",
       "size": 69892,
-      "url": "https://trytaketwo.com/videos/motion-gallery/super-dolly-out-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/motion-gallery/super-dolly-out-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3169,7 +3169,7 @@
       "key": "videos/transitions-gallery/black-wings-poster.jpg",
       "name": "black-wings-poster.jpg",
       "size": 177507,
-      "url": "https://trytaketwo.com/videos/transitions-gallery/black-wings-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/transitions-gallery/black-wings-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3177,7 +3177,7 @@
       "key": "videos/transitions-gallery/bouncy-dance-poster.jpg",
       "name": "bouncy-dance-poster.jpg",
       "size": 56164,
-      "url": "https://trytaketwo.com/videos/transitions-gallery/bouncy-dance-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/transitions-gallery/bouncy-dance-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3185,7 +3185,7 @@
       "key": "videos/transitions-gallery/bullet-time-360-poster.jpg",
       "name": "bullet-time-360-poster.jpg",
       "size": 198757,
-      "url": "https://trytaketwo.com/videos/transitions-gallery/bullet-time-360-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/transitions-gallery/bullet-time-360-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3193,7 +3193,7 @@
       "key": "videos/transitions-gallery/day-to-night-poster.jpg",
       "name": "day-to-night-poster.jpg",
       "size": 84106,
-      "url": "https://trytaketwo.com/videos/transitions-gallery/day-to-night-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/transitions-gallery/day-to-night-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3201,7 +3201,7 @@
       "key": "videos/transitions-gallery/drunk-dance-poster.jpg",
       "name": "drunk-dance-poster.jpg",
       "size": 94066,
-      "url": "https://trytaketwo.com/videos/transitions-gallery/drunk-dance-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/transitions-gallery/drunk-dance-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3209,7 +3209,7 @@
       "key": "videos/transitions-gallery/glamour-shoot-poster.jpg",
       "name": "glamour-shoot-poster.jpg",
       "size": 144761,
-      "url": "https://trytaketwo.com/videos/transitions-gallery/glamour-shoot-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/transitions-gallery/glamour-shoot-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3217,7 +3217,7 @@
       "key": "videos/transitions-gallery/hug-from-past-poster.jpg",
       "name": "hug-from-past-poster.jpg",
       "size": 76319,
-      "url": "https://trytaketwo.com/videos/transitions-gallery/hug-from-past-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/transitions-gallery/hug-from-past-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3225,7 +3225,7 @@
       "key": "videos/transitions-gallery/martial-arts-poster.jpg",
       "name": "martial-arts-poster.jpg",
       "size": 89475,
-      "url": "https://trytaketwo.com/videos/transitions-gallery/martial-arts-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/transitions-gallery/martial-arts-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3233,7 +3233,7 @@
       "key": "videos/transitions-gallery/media-interview-poster.jpg",
       "name": "media-interview-poster.jpg",
       "size": 136256,
-      "url": "https://trytaketwo.com/videos/transitions-gallery/media-interview-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/transitions-gallery/media-interview-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3241,7 +3241,7 @@
       "key": "videos/transitions-gallery/mummy-poster.jpg",
       "name": "mummy-poster.jpg",
       "size": 116219,
-      "url": "https://trytaketwo.com/videos/transitions-gallery/mummy-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/transitions-gallery/mummy-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3249,7 +3249,7 @@
       "key": "videos/transitions-gallery/overdrive-poster.jpg",
       "name": "overdrive-poster.jpg",
       "size": 251204,
-      "url": "https://trytaketwo.com/videos/transitions-gallery/overdrive-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/transitions-gallery/overdrive-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3257,7 +3257,7 @@
       "key": "videos/transitions-gallery/phantom-jewel-poster.jpg",
       "name": "phantom-jewel-poster.jpg",
       "size": 152799,
-      "url": "https://trytaketwo.com/videos/transitions-gallery/phantom-jewel-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/transitions-gallery/phantom-jewel-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3265,7 +3265,7 @@
       "key": "videos/transitions-gallery/pixels-poster.jpg",
       "name": "pixels-poster.jpg",
       "size": 157586,
-      "url": "https://trytaketwo.com/videos/transitions-gallery/pixels-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/transitions-gallery/pixels-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3273,7 +3273,7 @@
       "key": "videos/transitions-gallery/venomous-spider-poster.jpg",
       "name": "venomous-spider-poster.jpg",
       "size": 67866,
-      "url": "https://trytaketwo.com/videos/transitions-gallery/venomous-spider-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/transitions-gallery/venomous-spider-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3281,7 +3281,7 @@
       "key": "videos/transitions-gallery/yearbook-poster.jpg",
       "name": "yearbook-poster.jpg",
       "size": 62859,
-      "url": "https://trytaketwo.com/videos/transitions-gallery/yearbook-poster.jpg",
+      "url": "https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev/videos/transitions-gallery/yearbook-poster.jpg",
       "type": "image",
       "source": "taketwoapp"
     },
@@ -3289,7 +3289,7 @@
       "key": "Taketwobanner.png",
       "name": "Taketwobanner.png",
       "size": 819491,
-      "url": "https://taketwo.gg/Taketwobanner.png",
+      "url": "/landing/Taketwobanner.png",
       "type": "image",
       "source": "landing"
     },
@@ -3297,7 +3297,7 @@
       "key": "advisors/advisor-1.jpg",
       "name": "advisor-1.jpg",
       "size": 3104093,
-      "url": "https://taketwo.gg/advisors/advisor-1.jpg",
+      "url": "/landing/advisors/advisor-1.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3305,7 +3305,7 @@
       "key": "advisors/advisor-2.jpg",
       "name": "advisor-2.jpg",
       "size": 272434,
-      "url": "https://taketwo.gg/advisors/advisor-2.jpg",
+      "url": "/landing/advisors/advisor-2.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3313,7 +3313,7 @@
       "key": "advisors/advisor-3.jpg",
       "name": "advisor-3.jpg",
       "size": 6068428,
-      "url": "https://taketwo.gg/advisors/advisor-3.jpg",
+      "url": "/landing/advisors/advisor-3.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3321,7 +3321,7 @@
       "key": "contact/contact-hero.mp4",
       "name": "contact-hero.mp4",
       "size": 27278370,
-      "url": "https://taketwo.gg/contact/contact-hero.mp4",
+      "url": "/landing/contact/contact-hero.mp4",
       "type": "video",
       "source": "landing"
     },
@@ -3329,7 +3329,7 @@
       "key": "culture/hero.jpg",
       "name": "hero.jpg",
       "size": 238185,
-      "url": "https://taketwo.gg/culture/hero.jpg",
+      "url": "/landing/culture/hero.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3337,7 +3337,7 @@
       "key": "culture/team/anmol-sharma.jpg",
       "name": "anmol-sharma.jpg",
       "size": 405898,
-      "url": "https://taketwo.gg/culture/team/anmol-sharma.jpg",
+      "url": "/landing/culture/team/anmol-sharma.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3345,7 +3345,7 @@
       "key": "culture/team/hemesh-singh.jpg",
       "name": "hemesh-singh.jpg",
       "size": 394032,
-      "url": "https://taketwo.gg/culture/team/hemesh-singh.jpg",
+      "url": "/landing/culture/team/hemesh-singh.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3353,7 +3353,7 @@
       "key": "culture/team/keith-gomes.jpg",
       "name": "keith-gomes.jpg",
       "size": 601149,
-      "url": "https://taketwo.gg/culture/team/keith-gomes.jpg",
+      "url": "/landing/culture/team/keith-gomes.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3361,7 +3361,7 @@
       "key": "culture/team/naveen-yerneni.jpg",
       "name": "naveen-yerneni.jpg",
       "size": 484254,
-      "url": "https://taketwo.gg/culture/team/naveen-yerneni.jpg",
+      "url": "/landing/culture/team/naveen-yerneni.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3369,7 +3369,7 @@
       "key": "culture/team/sandeep-kamalsanan.jpg",
       "name": "sandeep-kamalsanan.jpg",
       "size": 404641,
-      "url": "https://taketwo.gg/culture/team/sandeep-kamalsanan.jpg",
+      "url": "/landing/culture/team/sandeep-kamalsanan.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3377,7 +3377,7 @@
       "key": "culture/team/team-1.jpg",
       "name": "team-1.jpg",
       "size": 217814,
-      "url": "https://taketwo.gg/culture/team/team-1.jpg",
+      "url": "/landing/culture/team/team-1.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3385,7 +3385,7 @@
       "key": "culture/team/team-2.jpg",
       "name": "team-2.jpg",
       "size": 64352,
-      "url": "https://taketwo.gg/culture/team/team-2.jpg",
+      "url": "/landing/culture/team/team-2.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3393,7 +3393,7 @@
       "key": "culture/team/team-3.jpg",
       "name": "team-3.jpg",
       "size": 6709416,
-      "url": "https://taketwo.gg/culture/team/team-3.jpg",
+      "url": "/landing/culture/team/team-3.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3401,7 +3401,7 @@
       "key": "cursor/01.png",
       "name": "01.png",
       "size": 244156,
-      "url": "https://taketwo.gg/cursor/01.png",
+      "url": "/landing/cursor/01.png",
       "type": "image",
       "source": "landing"
     },
@@ -3409,7 +3409,7 @@
       "key": "cursor/02.png",
       "name": "02.png",
       "size": 546297,
-      "url": "https://taketwo.gg/cursor/02.png",
+      "url": "/landing/cursor/02.png",
       "type": "image",
       "source": "landing"
     },
@@ -3417,7 +3417,7 @@
       "key": "cursor/03.png",
       "name": "03.png",
       "size": 235862,
-      "url": "https://taketwo.gg/cursor/03.png",
+      "url": "/landing/cursor/03.png",
       "type": "image",
       "source": "landing"
     },
@@ -3425,7 +3425,7 @@
       "key": "cursor/04.png",
       "name": "04.png",
       "size": 426879,
-      "url": "https://taketwo.gg/cursor/04.png",
+      "url": "/landing/cursor/04.png",
       "type": "image",
       "source": "landing"
     },
@@ -3433,7 +3433,7 @@
       "key": "cursor/05.png",
       "name": "05.png",
       "size": 291471,
-      "url": "https://taketwo.gg/cursor/05.png",
+      "url": "/landing/cursor/05.png",
       "type": "image",
       "source": "landing"
     },
@@ -3441,7 +3441,7 @@
       "key": "cursor/06.png",
       "name": "06.png",
       "size": 609782,
-      "url": "https://taketwo.gg/cursor/06.png",
+      "url": "/landing/cursor/06.png",
       "type": "image",
       "source": "landing"
     },
@@ -3449,7 +3449,7 @@
       "key": "cursor/07.png",
       "name": "07.png",
       "size": 614357,
-      "url": "https://taketwo.gg/cursor/07.png",
+      "url": "/landing/cursor/07.png",
       "type": "image",
       "source": "landing"
     },
@@ -3457,7 +3457,7 @@
       "key": "cursor/08.png",
       "name": "08.png",
       "size": 352023,
-      "url": "https://taketwo.gg/cursor/08.png",
+      "url": "/landing/cursor/08.png",
       "type": "image",
       "source": "landing"
     },
@@ -3465,7 +3465,7 @@
       "key": "cursor/09.png",
       "name": "09.png",
       "size": 154362,
-      "url": "https://taketwo.gg/cursor/09.png",
+      "url": "/landing/cursor/09.png",
       "type": "image",
       "source": "landing"
     },
@@ -3473,7 +3473,7 @@
       "key": "directors/hanu.jpg",
       "name": "hanu.jpg",
       "size": 3564476,
-      "url": "https://taketwo.gg/directors/hanu.jpg",
+      "url": "/landing/directors/hanu.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3481,7 +3481,7 @@
       "key": "directors/hemesh-singh.jpg",
       "name": "hemesh-singh.jpg",
       "size": 2976635,
-      "url": "https://taketwo.gg/directors/hemesh-singh.jpg",
+      "url": "/landing/directors/hemesh-singh.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3489,7 +3489,7 @@
       "key": "directors/keith-gomes.jpg",
       "name": "keith-gomes.jpg",
       "size": 601149,
-      "url": "https://taketwo.gg/directors/keith-gomes.jpg",
+      "url": "/landing/directors/keith-gomes.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3497,7 +3497,7 @@
       "key": "directors/naveen-yerneni.jpg",
       "name": "naveen-yerneni.jpg",
       "size": 484254,
-      "url": "https://taketwo.gg/directors/naveen-yerneni.jpg",
+      "url": "/landing/directors/naveen-yerneni.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3505,7 +3505,7 @@
       "key": "directors/sandeep-kamalsanan.jpg",
       "name": "sandeep-kamalsanan.jpg",
       "size": 404641,
-      "url": "https://taketwo.gg/directors/sandeep-kamalsanan.jpg",
+      "url": "/landing/directors/sandeep-kamalsanan.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3513,7 +3513,7 @@
       "key": "file.svg",
       "name": "file.svg",
       "size": 391,
-      "url": "https://taketwo.gg/file.svg",
+      "url": "/landing/file.svg",
       "type": "image",
       "source": "landing"
     },
@@ -3521,7 +3521,7 @@
       "key": "globe.svg",
       "name": "globe.svg",
       "size": 1035,
-      "url": "https://taketwo.gg/globe.svg",
+      "url": "/landing/globe.svg",
       "type": "image",
       "source": "landing"
     },
@@ -3529,7 +3529,7 @@
       "key": "hero/hero-footage.mp4",
       "name": "hero-footage.mp4",
       "size": 12698729,
-      "url": "https://taketwo.gg/hero/hero-footage.mp4",
+      "url": "/landing/hero/hero-footage.mp4",
       "type": "video",
       "source": "landing"
     },
@@ -3537,7 +3537,7 @@
       "key": "hero/hero-scroll.mp4",
       "name": "hero-scroll.mp4",
       "size": 16093146,
-      "url": "https://taketwo.gg/hero/hero-scroll.mp4",
+      "url": "/landing/hero/hero-scroll.mp4",
       "type": "video",
       "source": "landing"
     },
@@ -3545,7 +3545,7 @@
       "key": "hero/hero-video-new.mp4",
       "name": "hero-video-new.mp4",
       "size": 12698729,
-      "url": "https://taketwo.gg/hero/hero-video-new.mp4",
+      "url": "/landing/hero/hero-video-new.mp4",
       "type": "video",
       "source": "landing"
     },
@@ -3553,7 +3553,7 @@
       "key": "home/Anmol Sharma.jpg",
       "name": "Anmol Sharma.jpg",
       "size": 405898,
-      "url": "https://taketwo.gg/home/Anmol Sharma.jpg",
+      "url": "/landing/home/Anmol Sharma.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3561,7 +3561,7 @@
       "key": "home/Hanu.jpg",
       "name": "Hanu.jpg",
       "size": 3564476,
-      "url": "https://taketwo.gg/home/Hanu.jpg",
+      "url": "/landing/home/Hanu.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3569,7 +3569,7 @@
       "key": "home/Hemesh Singh.jpg",
       "name": "Hemesh Singh.jpg",
       "size": 394032,
-      "url": "https://taketwo.gg/home/Hemesh Singh.jpg",
+      "url": "/landing/home/Hemesh Singh.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3577,7 +3577,7 @@
       "key": "home/Keith Gomes.jpg",
       "name": "Keith Gomes.jpg",
       "size": 573557,
-      "url": "https://taketwo.gg/home/Keith Gomes.jpg",
+      "url": "/landing/home/Keith Gomes.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3585,7 +3585,7 @@
       "key": "home/Mythri.jpeg",
       "name": "Mythri.jpeg",
       "size": 117875,
-      "url": "https://taketwo.gg/home/Mythri.jpeg",
+      "url": "/landing/home/Mythri.jpeg",
       "type": "image",
       "source": "landing"
     },
@@ -3593,7 +3593,7 @@
       "key": "home/Mythri.jpg",
       "name": "Mythri.jpg",
       "size": 261134,
-      "url": "https://taketwo.gg/home/Mythri.jpg",
+      "url": "/landing/home/Mythri.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3601,7 +3601,7 @@
       "key": "home/Naveen Yerneni.jpg",
       "name": "Naveen Yerneni.jpg",
       "size": 484254,
-      "url": "https://taketwo.gg/home/Naveen Yerneni.jpg",
+      "url": "/landing/home/Naveen Yerneni.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3609,7 +3609,7 @@
       "key": "home/PHOTO-2025-11-21-20-17-42.jpg",
       "name": "PHOTO-2025-11-21-20-17-42.jpg",
       "size": 867520,
-      "url": "https://taketwo.gg/home/PHOTO-2025-11-21-20-17-42.jpg",
+      "url": "/landing/home/PHOTO-2025-11-21-20-17-42.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3617,7 +3617,7 @@
       "key": "home/PHOTO-2025-11-21-20-18-04.jpg",
       "name": "PHOTO-2025-11-21-20-18-04.jpg",
       "size": 64352,
-      "url": "https://taketwo.gg/home/PHOTO-2025-11-21-20-18-04.jpg",
+      "url": "/landing/home/PHOTO-2025-11-21-20-18-04.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3625,7 +3625,7 @@
       "key": "home/PHOTO-2026-01-10-03-09-49.jpg",
       "name": "PHOTO-2026-01-10-03-09-49.jpg",
       "size": 62121,
-      "url": "https://taketwo.gg/home/PHOTO-2026-01-10-03-09-49.jpg",
+      "url": "/landing/home/PHOTO-2026-01-10-03-09-49.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3633,7 +3633,7 @@
       "key": "home/PHOTO_Raghav_v2.jpeg",
       "name": "PHOTO_Raghav_v2.jpeg",
       "size": 54686,
-      "url": "https://taketwo.gg/home/PHOTO_Raghav_v2.jpeg",
+      "url": "/landing/home/PHOTO_Raghav_v2.jpeg",
       "type": "image",
       "source": "landing"
     },
@@ -3641,7 +3641,7 @@
       "key": "home/Prashant Varma.jpeg",
       "name": "Prashant Varma.jpeg",
       "size": 101749,
-      "url": "https://taketwo.gg/home/Prashant Varma.jpeg",
+      "url": "/landing/home/Prashant Varma.jpeg",
       "type": "image",
       "source": "landing"
     },
@@ -3649,7 +3649,7 @@
       "key": "home/Prashant Varma.jpg",
       "name": "Prashant Varma.jpg",
       "size": 3726014,
-      "url": "https://taketwo.gg/home/Prashant Varma.jpg",
+      "url": "/landing/home/Prashant Varma.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3657,7 +3657,7 @@
       "key": "home/Sandeep Kamalsanan.jpg",
       "name": "Sandeep Kamalsanan.jpg",
       "size": 404641,
-      "url": "https://taketwo.gg/home/Sandeep Kamalsanan.jpg",
+      "url": "/landing/home/Sandeep Kamalsanan.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3665,7 +3665,7 @@
       "key": "home/Shine.jpeg",
       "name": "Shine.jpeg",
       "size": 156007,
-      "url": "https://taketwo.gg/home/Shine.jpeg",
+      "url": "/landing/home/Shine.jpeg",
       "type": "image",
       "source": "landing"
     },
@@ -3673,7 +3673,7 @@
       "key": "home/Shine_light.jpg",
       "name": "Shine_light.jpg",
       "size": 317447,
-      "url": "https://taketwo.gg/home/Shine_light.jpg",
+      "url": "/landing/home/Shine_light.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3681,7 +3681,7 @@
       "key": "home/SriLakshmi.jpeg",
       "name": "SriLakshmi.jpeg",
       "size": 69140,
-      "url": "https://taketwo.gg/home/SriLakshmi.jpeg",
+      "url": "/landing/home/SriLakshmi.jpeg",
       "type": "image",
       "source": "landing"
     },
@@ -3689,7 +3689,7 @@
       "key": "home/Srikanth Odela.jpg",
       "name": "Srikanth Odela.jpg",
       "size": 6269497,
-      "url": "https://taketwo.gg/home/Srikanth Odela.jpg",
+      "url": "/landing/home/Srikanth Odela.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3697,7 +3697,7 @@
       "key": "home/Srilakshmi.png",
       "name": "Srilakshmi.png",
       "size": 853057,
-      "url": "https://taketwo.gg/home/Srilakshmi.png",
+      "url": "/landing/home/Srilakshmi.png",
       "type": "image",
       "source": "landing"
     },
@@ -3705,7 +3705,7 @@
       "key": "home/Starfish.jpeg",
       "name": "Starfish.jpeg",
       "size": 31911,
-      "url": "https://taketwo.gg/home/Starfish.jpeg",
+      "url": "/landing/home/Starfish.jpeg",
       "type": "image",
       "source": "landing"
     },
@@ -3713,7 +3713,7 @@
       "key": "home/Sukumar-Writings.PNG",
       "name": "Sukumar-Writings.PNG",
       "size": 41380,
-      "url": "https://taketwo.gg/home/Sukumar-Writings.PNG",
+      "url": "/landing/home/Sukumar-Writings.PNG",
       "type": "image",
       "source": "landing"
     },
@@ -3721,7 +3721,7 @@
       "key": "home/Sukumar-writings-logo-white.png",
       "name": "Sukumar-writings-logo-white.png",
       "size": 250285,
-      "url": "https://taketwo.gg/home/Sukumar-writings-logo-white.png",
+      "url": "/landing/home/Sukumar-writings-logo-white.png",
       "type": "image",
       "source": "landing"
     },
@@ -3729,7 +3729,7 @@
       "key": "home/Vriddhi.jpeg",
       "name": "Vriddhi.jpeg",
       "size": 186141,
-      "url": "https://taketwo.gg/home/Vriddhi.jpeg",
+      "url": "/landing/home/Vriddhi.jpeg",
       "type": "image",
       "source": "landing"
     },
@@ -3737,7 +3737,7 @@
       "key": "home/Vridhhi_light.jpg",
       "name": "Vridhhi_light.jpg",
       "size": 208131,
-      "url": "https://taketwo.gg/home/Vridhhi_light.jpg",
+      "url": "/landing/home/Vridhhi_light.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3745,7 +3745,7 @@
       "key": "home/aarvi.jpg",
       "name": "aarvi.jpg",
       "size": 58859,
-      "url": "https://taketwo.gg/home/aarvi.jpg",
+      "url": "/landing/home/aarvi.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3753,7 +3753,7 @@
       "key": "home/ad studio.png",
       "name": "ad studio.png",
       "size": 4956564,
-      "url": "https://taketwo.gg/home/ad studio.png",
+      "url": "/landing/home/ad studio.png",
       "type": "image",
       "source": "landing"
     },
@@ -3761,7 +3761,7 @@
       "key": "home/ad-studio.jpg",
       "name": "ad-studio.jpg",
       "size": 416665,
-      "url": "https://taketwo.gg/home/ad-studio.jpg",
+      "url": "/landing/home/ad-studio.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3769,7 +3769,7 @@
       "key": "home/afore.jpeg",
       "name": "afore.jpeg",
       "size": 2960,
-      "url": "https://taketwo.gg/home/afore.jpeg",
+      "url": "/landing/home/afore.jpeg",
       "type": "image",
       "source": "landing"
     },
@@ -3777,7 +3777,7 @@
       "key": "home/afore_removed.png",
       "name": "afore_removed.png",
       "size": 12511,
-      "url": "https://taketwo.gg/home/afore_removed.png",
+      "url": "/landing/home/afore_removed.png",
       "type": "image",
       "source": "landing"
     },
@@ -3785,7 +3785,7 @@
       "key": "home/afore_removed.svg",
       "name": "afore_removed.svg",
       "size": 10212,
-      "url": "https://taketwo.gg/home/afore_removed.svg",
+      "url": "/landing/home/afore_removed.svg",
       "type": "image",
       "source": "landing"
     },
@@ -3793,7 +3793,7 @@
       "key": "home/banner.jpg",
       "name": "banner.jpg",
       "size": 411588,
-      "url": "https://taketwo.gg/home/banner.jpg",
+      "url": "/landing/home/banner.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3801,7 +3801,7 @@
       "key": "home/canvas stuff.png",
       "name": "canvas stuff.png",
       "size": 683645,
-      "url": "https://taketwo.gg/home/canvas stuff.png",
+      "url": "/landing/home/canvas stuff.png",
       "type": "image",
       "source": "landing"
     },
@@ -3809,7 +3809,7 @@
       "key": "home/canvas.jpg",
       "name": "canvas.jpg",
       "size": 527899,
-      "url": "https://taketwo.gg/home/canvas.jpg",
+      "url": "/landing/home/canvas.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3817,7 +3817,7 @@
       "key": "home/canvas2.jpg",
       "name": "canvas2.jpg",
       "size": 334132,
-      "url": "https://taketwo.gg/home/canvas2.jpg",
+      "url": "/landing/home/canvas2.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3825,7 +3825,7 @@
       "key": "home/cta-team.jpg",
       "name": "cta-team.jpg",
       "size": 5902148,
-      "url": "https://taketwo.gg/home/cta-team.jpg",
+      "url": "/landing/home/cta-team.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3833,7 +3833,7 @@
       "key": "home/form.svg",
       "name": "form.svg",
       "size": 1877,
-      "url": "https://taketwo.gg/home/form.svg",
+      "url": "/landing/home/form.svg",
       "type": "image",
       "source": "landing"
     },
@@ -3841,7 +3841,7 @@
       "key": "home/harish-shankar.jpg",
       "name": "harish-shankar.jpg",
       "size": 3252512,
-      "url": "https://taketwo.gg/home/harish-shankar.jpg",
+      "url": "/landing/home/harish-shankar.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3849,7 +3849,7 @@
       "key": "home/inovia.jpeg",
       "name": "inovia.jpeg",
       "size": 4343,
-      "url": "https://taketwo.gg/home/inovia.jpeg",
+      "url": "/landing/home/inovia.jpeg",
       "type": "image",
       "source": "landing"
     },
@@ -3857,7 +3857,7 @@
       "key": "home/inovia_master.png",
       "name": "inovia_master.png",
       "size": 20192,
-      "url": "https://taketwo.gg/home/inovia_master.png",
+      "url": "/landing/home/inovia_master.png",
       "type": "image",
       "source": "landing"
     },
@@ -3865,7 +3865,7 @@
       "key": "home/inovia_removed.png",
       "name": "inovia_removed.png",
       "size": 52477,
-      "url": "https://taketwo.gg/home/inovia_removed.png",
+      "url": "/landing/home/inovia_removed.png",
       "type": "image",
       "source": "landing"
     },
@@ -3873,7 +3873,7 @@
       "key": "home/inovia_removed.svg",
       "name": "inovia_removed.svg",
       "size": 94260,
-      "url": "https://taketwo.gg/home/inovia_removed.svg",
+      "url": "/landing/home/inovia_removed.svg",
       "type": "image",
       "source": "landing"
     },
@@ -3881,7 +3881,7 @@
       "key": "home/keith.jpg",
       "name": "keith.jpg",
       "size": 573557,
-      "url": "https://taketwo.gg/home/keith.jpg",
+      "url": "/landing/home/keith.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3889,7 +3889,7 @@
       "key": "home/mythri-new.jpg",
       "name": "mythri-new.jpg",
       "size": 117875,
-      "url": "https://taketwo.gg/home/mythri-new.jpg",
+      "url": "/landing/home/mythri-new.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3897,7 +3897,7 @@
       "key": "home/naveen.jpg",
       "name": "naveen.jpg",
       "size": 3949884,
-      "url": "https://taketwo.gg/home/naveen.jpg",
+      "url": "/landing/home/naveen.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3905,7 +3905,7 @@
       "key": "home/production-1.jpg",
       "name": "production-1.jpg",
       "size": 117875,
-      "url": "https://taketwo.gg/home/production-1.jpg",
+      "url": "/landing/home/production-1.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3913,7 +3913,7 @@
       "key": "home/production-2.jpg",
       "name": "production-2.jpg",
       "size": 186141,
-      "url": "https://taketwo.gg/home/production-2.jpg",
+      "url": "/landing/home/production-2.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3921,7 +3921,7 @@
       "key": "home/production-3.jpg",
       "name": "production-3.jpg",
       "size": 156007,
-      "url": "https://taketwo.gg/home/production-3.jpg",
+      "url": "/landing/home/production-3.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3929,7 +3929,7 @@
       "key": "home/rajmouli.webp",
       "name": "rajmouli.webp",
       "size": 23976,
-      "url": "https://taketwo.gg/home/rajmouli.webp",
+      "url": "/landing/home/rajmouli.webp",
       "type": "image",
       "source": "landing"
     },
@@ -3937,7 +3937,7 @@
       "key": "home/ramgopal.jpg",
       "name": "ramgopal.jpg",
       "size": 6010054,
-      "url": "https://taketwo.gg/home/ramgopal.jpg",
+      "url": "/landing/home/ramgopal.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3945,7 +3945,7 @@
       "key": "home/reel studio.png",
       "name": "reel studio.png",
       "size": 1293364,
-      "url": "https://taketwo.gg/home/reel studio.png",
+      "url": "/landing/home/reel studio.png",
       "type": "image",
       "source": "landing"
     },
@@ -3953,7 +3953,7 @@
       "key": "home/reel-studio.jpg",
       "name": "reel-studio.jpg",
       "size": 6307789,
-      "url": "https://taketwo.gg/home/reel-studio.jpg",
+      "url": "/landing/home/reel-studio.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3961,7 +3961,7 @@
       "key": "home/reel2.png",
       "name": "reel2.png",
       "size": 3076654,
-      "url": "https://taketwo.gg/home/reel2.png",
+      "url": "/landing/home/reel2.png",
       "type": "image",
       "source": "landing"
     },
@@ -3969,7 +3969,7 @@
       "key": "home/rgv.avif",
       "name": "rgv.avif",
       "size": 75692,
-      "url": "https://taketwo.gg/home/rgv.avif",
+      "url": "/landing/home/rgv.avif",
       "type": "image",
       "source": "landing"
     },
@@ -3977,7 +3977,7 @@
       "key": "home/rgv.jpg",
       "name": "rgv.jpg",
       "size": 407461,
-      "url": "https://taketwo.gg/home/rgv.jpg",
+      "url": "/landing/home/rgv.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3985,7 +3985,7 @@
       "key": "home/shine-new.jpg",
       "name": "shine-new.jpg",
       "size": 156007,
-      "url": "https://taketwo.gg/home/shine-new.jpg",
+      "url": "/landing/home/shine-new.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -3993,7 +3993,7 @@
       "key": "home/srikanth-odela.jpg",
       "name": "srikanth-odela.jpg",
       "size": 6269497,
-      "url": "https://taketwo.gg/home/srikanth-odela.jpg",
+      "url": "/landing/home/srikanth-odela.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4001,7 +4001,7 @@
       "key": "home/srilakshmi-new.jpg",
       "name": "srilakshmi-new.jpg",
       "size": 69140,
-      "url": "https://taketwo.gg/home/srilakshmi-new.jpg",
+      "url": "/landing/home/srilakshmi-new.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4009,7 +4009,7 @@
       "key": "home/sukumar-new.jpg",
       "name": "sukumar-new.jpg",
       "size": 3395417,
-      "url": "https://taketwo.gg/home/sukumar-new.jpg",
+      "url": "/landing/home/sukumar-new.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4017,7 +4017,7 @@
       "key": "home/sukumar-writings.jpg",
       "name": "sukumar-writings.jpg",
       "size": 39569,
-      "url": "https://taketwo.gg/home/sukumar-writings.jpg",
+      "url": "/landing/home/sukumar-writings.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4025,7 +4025,7 @@
       "key": "home/sukumar.jpg",
       "name": "sukumar.jpg",
       "size": 3395417,
-      "url": "https://taketwo.gg/home/sukumar.jpg",
+      "url": "/landing/home/sukumar.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4033,7 +4033,7 @@
       "key": "home/vriddhi-new.jpg",
       "name": "vriddhi-new.jpg",
       "size": 186141,
-      "url": "https://taketwo.gg/home/vriddhi-new.jpg",
+      "url": "/landing/home/vriddhi-new.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4041,7 +4041,7 @@
       "key": "media/blog/ai-festival.png",
       "name": "ai-festival.png",
       "size": 1450708,
-      "url": "https://taketwo.gg/media/blog/ai-festival.png",
+      "url": "/landing/media/blog/ai-festival.png",
       "type": "image",
       "source": "landing"
     },
@@ -4049,7 +4049,7 @@
       "key": "media/blog/ai-filmmaking.png",
       "name": "ai-filmmaking.png",
       "size": 1600997,
-      "url": "https://taketwo.gg/media/blog/ai-filmmaking.png",
+      "url": "/landing/media/blog/ai-filmmaking.png",
       "type": "image",
       "source": "landing"
     },
@@ -4057,7 +4057,7 @@
       "key": "media/blog/blog-1.jpg",
       "name": "blog-1.jpg",
       "size": 622319,
-      "url": "https://taketwo.gg/media/blog/blog-1.jpg",
+      "url": "/landing/media/blog/blog-1.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4065,7 +4065,7 @@
       "key": "media/blog/blog-2.jpg",
       "name": "blog-2.jpg",
       "size": 618820,
-      "url": "https://taketwo.gg/media/blog/blog-2.jpg",
+      "url": "/landing/media/blog/blog-2.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4073,7 +4073,7 @@
       "key": "media/blog/blog-3.jpg",
       "name": "blog-3.jpg",
       "size": 792227,
-      "url": "https://taketwo.gg/media/blog/blog-3.jpg",
+      "url": "/landing/media/blog/blog-3.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4081,7 +4081,7 @@
       "key": "media/blog/blog-4.jpg",
       "name": "blog-4.jpg",
       "size": 431770,
-      "url": "https://taketwo.gg/media/blog/blog-4.jpg",
+      "url": "/landing/media/blog/blog-4.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4089,7 +4089,7 @@
       "key": "media/media_founders.png",
       "name": "media_founders.png",
       "size": 673850,
-      "url": "https://taketwo.gg/media/media_founders.png",
+      "url": "/landing/media/media_founders.png",
       "type": "image",
       "source": "landing"
     },
@@ -4097,7 +4097,7 @@
       "key": "memo/sky.jpg",
       "name": "sky.jpg",
       "size": 2977238,
-      "url": "https://taketwo.gg/memo/sky.jpg",
+      "url": "/landing/memo/sky.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4105,7 +4105,7 @@
       "key": "memo/sky2.jpg",
       "name": "sky2.jpg",
       "size": 674310,
-      "url": "https://taketwo.gg/memo/sky2.jpg",
+      "url": "/landing/memo/sky2.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4113,7 +4113,7 @@
       "key": "memo/ticket.png",
       "name": "ticket.png",
       "size": 153811,
-      "url": "https://taketwo.gg/memo/ticket.png",
+      "url": "/landing/memo/ticket.png",
       "type": "image",
       "source": "landing"
     },
@@ -4121,7 +4121,7 @@
       "key": "memo/window.png",
       "name": "window.png",
       "size": 3318125,
-      "url": "https://taketwo.gg/memo/window.png",
+      "url": "/landing/memo/window.png",
       "type": "image",
       "source": "landing"
     },
@@ -4129,7 +4129,7 @@
       "key": "next.svg",
       "name": "next.svg",
       "size": 1375,
-      "url": "https://taketwo.gg/next.svg",
+      "url": "/landing/next.svg",
       "type": "image",
       "source": "landing"
     },
@@ -4137,7 +4137,7 @@
       "key": "sample-film/banner.jpg",
       "name": "banner.jpg",
       "size": 620077,
-      "url": "https://taketwo.gg/sample-film/banner.jpg",
+      "url": "/landing/sample-film/banner.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4145,7 +4145,7 @@
       "key": "sample-film/film-snapshot-1.jpg",
       "name": "film-snapshot-1.jpg",
       "size": 609499,
-      "url": "https://taketwo.gg/sample-film/film-snapshot-1.jpg",
+      "url": "/landing/sample-film/film-snapshot-1.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4153,7 +4153,7 @@
       "key": "sample-film/film-snapshot-2.jpg",
       "name": "film-snapshot-2.jpg",
       "size": 615455,
-      "url": "https://taketwo.gg/sample-film/film-snapshot-2.jpg",
+      "url": "/landing/sample-film/film-snapshot-2.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4161,7 +4161,7 @@
       "key": "sample-film/film-snapshot-3.jpg",
       "name": "film-snapshot-3.jpg",
       "size": 624881,
-      "url": "https://taketwo.gg/sample-film/film-snapshot-3.jpg",
+      "url": "/landing/sample-film/film-snapshot-3.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4169,7 +4169,7 @@
       "key": "sample-film/film-snapshot-4.jpg",
       "name": "film-snapshot-4.jpg",
       "size": 614774,
-      "url": "https://taketwo.gg/sample-film/film-snapshot-4.jpg",
+      "url": "/landing/sample-film/film-snapshot-4.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4177,7 +4177,7 @@
       "key": "sample-film/film-snapshot-5.jpg",
       "name": "film-snapshot-5.jpg",
       "size": 622688,
-      "url": "https://taketwo.gg/sample-film/film-snapshot-5.jpg",
+      "url": "/landing/sample-film/film-snapshot-5.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4185,7 +4185,7 @@
       "key": "sample-film/film-snapshot-6.jpg",
       "name": "film-snapshot-6.jpg",
       "size": 620077,
-      "url": "https://taketwo.gg/sample-film/film-snapshot-6.jpg",
+      "url": "/landing/sample-film/film-snapshot-6.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4193,7 +4193,7 @@
       "key": "showreel/ending-part1.mp4",
       "name": "ending-part1.mp4",
       "size": 11650764,
-      "url": "https://taketwo.gg/showreel/ending-part1.mp4",
+      "url": "/landing/showreel/ending-part1.mp4",
       "type": "video",
       "source": "landing"
     },
@@ -4201,7 +4201,7 @@
       "key": "showreel/ending-part2.mp4",
       "name": "ending-part2.mp4",
       "size": 8298038,
-      "url": "https://taketwo.gg/showreel/ending-part2.mp4",
+      "url": "/landing/showreel/ending-part2.mp4",
       "type": "video",
       "source": "landing"
     },
@@ -4209,7 +4209,7 @@
       "key": "showreel/ending.mp4",
       "name": "ending.mp4",
       "size": 21019512,
-      "url": "https://taketwo.gg/showreel/ending.mp4",
+      "url": "/landing/showreel/ending.mp4",
       "type": "video",
       "source": "landing"
     },
@@ -4217,7 +4217,7 @@
       "key": "showreel/itstartswithaline.mp4",
       "name": "itstartswithaline.mp4",
       "size": 18597868,
-      "url": "https://taketwo.gg/showreel/itstartswithaline.mp4",
+      "url": "/landing/showreel/itstartswithaline.mp4",
       "type": "video",
       "source": "landing"
     },
@@ -4225,7 +4225,7 @@
       "key": "showreel/itstartswithalinev2.mp4",
       "name": "itstartswithalinev2.mp4",
       "size": 24353509,
-      "url": "https://taketwo.gg/showreel/itstartswithalinev2.mp4",
+      "url": "/landing/showreel/itstartswithalinev2.mp4",
       "type": "video",
       "source": "landing"
     },
@@ -4233,7 +4233,7 @@
       "key": "showreel/returntonature-part1.mp4",
       "name": "returntonature-part1.mp4",
       "size": 11515161,
-      "url": "https://taketwo.gg/showreel/returntonature-part1.mp4",
+      "url": "/landing/showreel/returntonature-part1.mp4",
       "type": "video",
       "source": "landing"
     },
@@ -4241,7 +4241,7 @@
       "key": "showreel/returntonature-part2.mp4",
       "name": "returntonature-part2.mp4",
       "size": 11677774,
-      "url": "https://taketwo.gg/showreel/returntonature-part2.mp4",
+      "url": "/landing/showreel/returntonature-part2.mp4",
       "type": "video",
       "source": "landing"
     },
@@ -4249,7 +4249,7 @@
       "key": "showreel/returntonature.mp4",
       "name": "returntonature.mp4",
       "size": 23798998,
-      "url": "https://taketwo.gg/showreel/returntonature.mp4",
+      "url": "/landing/showreel/returntonature.mp4",
       "type": "video",
       "source": "landing"
     },
@@ -4257,7 +4257,7 @@
       "key": "showreel/showreel-parallax-1.png",
       "name": "showreel-parallax-1.png",
       "size": 6207849,
-      "url": "https://taketwo.gg/showreel/showreel-parallax-1.png",
+      "url": "/landing/showreel/showreel-parallax-1.png",
       "type": "image",
       "source": "landing"
     },
@@ -4265,7 +4265,7 @@
       "key": "showreel/showreel-parallax-2.jpg",
       "name": "showreel-parallax-2.jpg",
       "size": 693568,
-      "url": "https://taketwo.gg/showreel/showreel-parallax-2.jpg",
+      "url": "/landing/showreel/showreel-parallax-2.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4273,7 +4273,7 @@
       "key": "showreel/showreel-parallax-3.jpg",
       "name": "showreel-parallax-3.jpg",
       "size": 761660,
-      "url": "https://taketwo.gg/showreel/showreel-parallax-3.jpg",
+      "url": "/landing/showreel/showreel-parallax-3.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4281,7 +4281,7 @@
       "key": "site-icon.png",
       "name": "site-icon.png",
       "size": 808,
-      "url": "https://taketwo.gg/site-icon.png",
+      "url": "/landing/site-icon.png",
       "type": "image",
       "source": "landing"
     },
@@ -4289,7 +4289,7 @@
       "key": "spotlight/spotlight-1.jpg",
       "name": "spotlight-1.jpg",
       "size": 375001,
-      "url": "https://taketwo.gg/spotlight/spotlight-1.jpg",
+      "url": "/landing/spotlight/spotlight-1.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4297,7 +4297,7 @@
       "key": "spotlight/spotlight-10.jpg",
       "name": "spotlight-10.jpg",
       "size": 354552,
-      "url": "https://taketwo.gg/spotlight/spotlight-10.jpg",
+      "url": "/landing/spotlight/spotlight-10.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4305,7 +4305,7 @@
       "key": "spotlight/spotlight-11.jpg",
       "name": "spotlight-11.jpg",
       "size": 349963,
-      "url": "https://taketwo.gg/spotlight/spotlight-11.jpg",
+      "url": "/landing/spotlight/spotlight-11.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4313,7 +4313,7 @@
       "key": "spotlight/spotlight-12.jpg",
       "name": "spotlight-12.jpg",
       "size": 383692,
-      "url": "https://taketwo.gg/spotlight/spotlight-12.jpg",
+      "url": "/landing/spotlight/spotlight-12.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4321,7 +4321,7 @@
       "key": "spotlight/spotlight-13.jpg",
       "name": "spotlight-13.jpg",
       "size": 369818,
-      "url": "https://taketwo.gg/spotlight/spotlight-13.jpg",
+      "url": "/landing/spotlight/spotlight-13.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4329,7 +4329,7 @@
       "key": "spotlight/spotlight-14.jpg",
       "name": "spotlight-14.jpg",
       "size": 463203,
-      "url": "https://taketwo.gg/spotlight/spotlight-14.jpg",
+      "url": "/landing/spotlight/spotlight-14.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4337,7 +4337,7 @@
       "key": "spotlight/spotlight-15.jpg",
       "name": "spotlight-15.jpg",
       "size": 354280,
-      "url": "https://taketwo.gg/spotlight/spotlight-15.jpg",
+      "url": "/landing/spotlight/spotlight-15.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4345,7 +4345,7 @@
       "key": "spotlight/spotlight-16.jpg",
       "name": "spotlight-16.jpg",
       "size": 359621,
-      "url": "https://taketwo.gg/spotlight/spotlight-16.jpg",
+      "url": "/landing/spotlight/spotlight-16.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4353,7 +4353,7 @@
       "key": "spotlight/spotlight-17.jpg",
       "name": "spotlight-17.jpg",
       "size": 416725,
-      "url": "https://taketwo.gg/spotlight/spotlight-17.jpg",
+      "url": "/landing/spotlight/spotlight-17.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4361,7 +4361,7 @@
       "key": "spotlight/spotlight-18.jpg",
       "name": "spotlight-18.jpg",
       "size": 410965,
-      "url": "https://taketwo.gg/spotlight/spotlight-18.jpg",
+      "url": "/landing/spotlight/spotlight-18.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4369,7 +4369,7 @@
       "key": "spotlight/spotlight-19.jpg",
       "name": "spotlight-19.jpg",
       "size": 385385,
-      "url": "https://taketwo.gg/spotlight/spotlight-19.jpg",
+      "url": "/landing/spotlight/spotlight-19.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4377,7 +4377,7 @@
       "key": "spotlight/spotlight-2.jpg",
       "name": "spotlight-2.jpg",
       "size": 369921,
-      "url": "https://taketwo.gg/spotlight/spotlight-2.jpg",
+      "url": "/landing/spotlight/spotlight-2.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4385,7 +4385,7 @@
       "key": "spotlight/spotlight-20.jpg",
       "name": "spotlight-20.jpg",
       "size": 383973,
-      "url": "https://taketwo.gg/spotlight/spotlight-20.jpg",
+      "url": "/landing/spotlight/spotlight-20.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4393,7 +4393,7 @@
       "key": "spotlight/spotlight-3.jpg",
       "name": "spotlight-3.jpg",
       "size": 358787,
-      "url": "https://taketwo.gg/spotlight/spotlight-3.jpg",
+      "url": "/landing/spotlight/spotlight-3.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4401,7 +4401,7 @@
       "key": "spotlight/spotlight-4.jpg",
       "name": "spotlight-4.jpg",
       "size": 385292,
-      "url": "https://taketwo.gg/spotlight/spotlight-4.jpg",
+      "url": "/landing/spotlight/spotlight-4.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4409,7 +4409,7 @@
       "key": "spotlight/spotlight-5.jpg",
       "name": "spotlight-5.jpg",
       "size": 362419,
-      "url": "https://taketwo.gg/spotlight/spotlight-5.jpg",
+      "url": "/landing/spotlight/spotlight-5.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4417,7 +4417,7 @@
       "key": "spotlight/spotlight-6.jpg",
       "name": "spotlight-6.jpg",
       "size": 353373,
-      "url": "https://taketwo.gg/spotlight/spotlight-6.jpg",
+      "url": "/landing/spotlight/spotlight-6.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4425,7 +4425,7 @@
       "key": "spotlight/spotlight-7.jpg",
       "name": "spotlight-7.jpg",
       "size": 410617,
-      "url": "https://taketwo.gg/spotlight/spotlight-7.jpg",
+      "url": "/landing/spotlight/spotlight-7.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4433,7 +4433,7 @@
       "key": "spotlight/spotlight-8.jpg",
       "name": "spotlight-8.jpg",
       "size": 361275,
-      "url": "https://taketwo.gg/spotlight/spotlight-8.jpg",
+      "url": "/landing/spotlight/spotlight-8.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4441,7 +4441,7 @@
       "key": "spotlight/spotlight-9.jpg",
       "name": "spotlight-9.jpg",
       "size": 339724,
-      "url": "https://taketwo.gg/spotlight/spotlight-9.jpg",
+      "url": "/landing/spotlight/spotlight-9.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4449,7 +4449,7 @@
       "key": "vercel.svg",
       "name": "vercel.svg",
       "size": 128,
-      "url": "https://taketwo.gg/vercel.svg",
+      "url": "/landing/vercel.svg",
       "type": "image",
       "source": "landing"
     },
@@ -4457,7 +4457,7 @@
       "key": "window.svg",
       "name": "window.svg",
       "size": 385,
-      "url": "https://taketwo.gg/window.svg",
+      "url": "/landing/window.svg",
       "type": "image",
       "source": "landing"
     },
@@ -4465,7 +4465,7 @@
       "key": "work/work-1.jpg",
       "name": "work-1.jpg",
       "size": 221076,
-      "url": "https://taketwo.gg/work/work-1.jpg",
+      "url": "/landing/work/work-1.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4473,7 +4473,7 @@
       "key": "work/work-2.jpg",
       "name": "work-2.jpg",
       "size": 2445252,
-      "url": "https://taketwo.gg/work/work-2.jpg",
+      "url": "/landing/work/work-2.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4481,7 +4481,7 @@
       "key": "work/work-3.jpg",
       "name": "work-3.jpg",
       "size": 696383,
-      "url": "https://taketwo.gg/work/work-3.jpg",
+      "url": "/landing/work/work-3.jpg",
       "type": "image",
       "source": "landing"
     },
@@ -4489,7 +4489,7 @@
       "key": "work/work-4.jpg",
       "name": "work-4.jpg",
       "size": 152424,
-      "url": "https://taketwo.gg/work/work-4.jpg",
+      "url": "/landing/work/work-4.jpg",
       "type": "image",
       "source": "landing"
     }
