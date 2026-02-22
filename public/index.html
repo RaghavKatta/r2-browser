@@ -378,7 +378,7 @@
       </div>
       <div class="modal-actions">
         <a href="#" id="openNewTab" target="_blank">Open in New Tab</a>
-        <a href="#" id="downloadLink" download>Download</a>
+        <button id="downloadBtn" onclick="downloadFile()">Download</button>
         <button class="fullscreen" onclick="openFullscreen()">Fullscreen</button>
       </div>
     </div>
@@ -488,7 +488,10 @@
       return (bytes / (1024 * 1024)).toFixed(1) + ' MB';
     }
 
+    let currentAsset = null;
+
     function openModal(asset) {
+      currentAsset = asset;
       document.getElementById('modalTitle').textContent = asset.key;
 
       const body = document.getElementById('modalBody');
@@ -500,14 +503,41 @@
         body.innerHTML = `<audio src="${asset.url}" controls autoplay></audio>`;
       }
 
-      // For local files, construct full URL
-      const fullUrl = window.location.origin + asset.url;
+      // Set the full URL (use asset URL directly if it's absolute)
+      const fullUrl = asset.url.startsWith('http') ? asset.url : window.location.origin + asset.url;
       document.getElementById('modalUrl').value = fullUrl;
       document.getElementById('openNewTab').href = asset.url;
-      document.getElementById('downloadLink').href = asset.url;
-      document.getElementById('downloadLink').download = asset.name;
 
       document.getElementById('modal').classList.add('active');
+    }
+
+    async function downloadFile() {
+      if (!currentAsset) return;
+
+      const btn = document.getElementById('downloadBtn');
+      btn.textContent = 'Downloading...';
+
+      try {
+        const response = await fetch(currentAsset.url);
+        const blob = await response.blob();
+        const url = URL.createObjectURL(blob);
+
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = currentAsset.name;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+
+        btn.textContent = 'Downloaded!';
+        setTimeout(() => { btn.textContent = 'Download'; }, 1500);
+      } catch (err) {
+        console.error('Download failed:', err);
+        // Fallback: open in new tab
+        window.open(currentAsset.url, '_blank');
+        btn.textContent = 'Download';
+      }
     }
 
     function closeModal() {
