@@ -392,7 +392,11 @@
 
     async function loadAssets() {
       try {
-        const res = await fetch('/api/assets');
+        // Try API first (local dev), fallback to static JSON (Vercel)
+        let res = await fetch('/api/assets').catch(() => null);
+        if (!res || !res.ok) {
+          res = await fetch('/assets.json');
+        }
         const data = await res.json();
 
         allAssets = data.assets;
