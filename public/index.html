@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TakeTwo Asset Browser</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #0a0a0a;
+      color: #fff;
+      min-height: 100vh;
+    }
+
+    .header {
+      background: #111;
+      padding: 20px 30px;
+      border-bottom: 1px solid #222;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .header h1 { font-size: 24px; font-weight: 600; margin-bottom: 15px; }
+
+    .stats {
+      display: flex;
+      gap: 25px;
+      font-size: 14px;
+      color: #888;
+      margin-bottom: 15px;
+    }
+
+    .stats span { color: #0ea5e9; font-weight: 600; }
+
+    .controls {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .search-box {
+      flex: 1;
+      min-width: 200px;
+      padding: 10px 15px;
+      background: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 8px;
+      color: #fff;
+      font-size: 14px;
+    }
+
+    .search-box:focus { outline: none; border-color: #0ea5e9; }
+
+    .btn {
+      padding: 10px 18px;
+      background: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 8px;
+      color: #fff;
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+
+    .btn:hover, .btn.active { background: #0ea5e9; border-color: #0ea5e9; }
+    .btn.source-taketwoapp.active { background: #7c3aed; border-color: #7c3aed; }
+    .btn.source-landing.active { background: #10b981; border-color: #10b981; }
+
+    .folder-nav {
+      display: flex;
+      gap: 8px;
+      padding: 12px 30px;
+      background: #0f0f0f;
+      overflow-x: auto;
+      border-bottom: 1px solid #222;
+    }
+
+    .folder-btn {
+      padding: 6px 14px;
+      background: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 16px;
+      color: #aaa;
+      cursor: pointer;
+      font-size: 12px;
+      white-space: nowrap;
+      transition: all 0.15s;
+    }
+
+    .folder-btn:hover { border-color: #555; color: #fff; }
+    .folder-btn.active { background: #333; border-color: #555; color: #fff; }
+
+    .container { padding: 25px 30px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 16px;
+    }
+
+    .asset-card {
+      background: #151515;
+      border-radius: 10px;
+      overflow: hidden;
+      border: 1px solid #222;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .asset-card:hover { border-color: #444; transform: translateY(-2px); }
+
+    .asset-preview {
+      width: 100%;
+      height: 160px;
+      background: #0a0a0a;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .asset-preview img, .asset-preview video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .asset-preview .play-icon {
+      position: absolute;
+      width: 45px;
+      height: 45px;
+      background: rgba(0,0,0,0.7);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .asset-preview .play-icon::after {
+      content: '';
+      border-left: 15px solid white;
+      border-top: 9px solid transparent;
+      border-bottom: 9px solid transparent;
+      margin-left: 3px;
+    }
+
+    .asset-info { padding: 12px; }
+
+    .asset-name {
+      font-size: 12px;
+      font-weight: 500;
+      color: #ccc;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      margin-bottom: 6px;
+    }
+
+    .asset-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 11px;
+      color: #555;
+    }
+
+    .asset-type {
+      padding: 2px 6px;
+      border-radius: 3px;
+      text-transform: uppercase;
+      font-size: 9px;
+      font-weight: 600;
+    }
+
+    .asset-type.video { background: #7c3aed; color: #fff; }
+    .asset-type.image { background: #0ea5e9; color: #fff; }
+    .asset-type.audio { background: #10b981; color: #fff; }
+
+    .source-badge {
+      position: absolute;
+      top: 8px;
+      left: 8px;
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-size: 9px;
+      font-weight: 600;
+      text-transform: uppercase;
+    }
+
+    .source-badge.taketwoapp { background: #7c3aed; }
+    .source-badge.landing { background: #10b981; }
+
+    /* Modal */
+    .modal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.95);
+      z-index: 1000;
+      flex-direction: column;
+    }
+
+    .modal.active { display: flex; }
+
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 15px 25px;
+      background: #111;
+      border-bottom: 1px solid #222;
+    }
+
+    .modal-title {
+      font-size: 14px;
+      color: #888;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      max-width: 60%;
+    }
+
+    .modal-close {
+      width: 36px;
+      height: 36px;
+      background: #222;
+      border: none;
+      border-radius: 50%;
+      color: #fff;
+      font-size: 20px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-close:hover { background: #333; }
+
+    .modal-body {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      overflow: auto;
+    }
+
+    .modal-body img, .modal-body video {
+      max-width: 100%;
+      max-height: 100%;
+      border-radius: 8px;
+    }
+
+    .modal-footer {
+      padding: 15px 25px;
+      background: #111;
+      border-top: 1px solid #222;
+    }
+
+    .url-row {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+
+    .url-row input {
+      flex: 1;
+      padding: 10px 14px;
+      background: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 6px;
+      color: #fff;
+      font-size: 13px;
+      font-family: monospace;
+    }
+
+    .url-row button {
+      padding: 10px 20px;
+      background: #0ea5e9;
+      border: none;
+      border-radius: 6px;
+      color: #fff;
+      font-weight: 600;
+      cursor: pointer;
+      font-size: 13px;
+    }
+
+    .url-row button:hover { background: #0284c7; }
+    .url-row button.copied { background: #10b981; }
+
+    .modal-actions {
+      display: flex;
+      gap: 10px;
+    }
+
+    .modal-actions a, .modal-actions button {
+      padding: 10px 18px;
+      background: #222;
+      border: none;
+      border-radius: 6px;
+      color: #fff;
+      text-decoration: none;
+      font-size: 13px;
+      cursor: pointer;
+    }
+
+    .modal-actions a:hover, .modal-actions button:hover { background: #333; }
+    .modal-actions .fullscreen { background: #7c3aed; }
+    .modal-actions .fullscreen:hover { background: #6d28d9; }
+
+    .loading {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 50vh;
+      color: #666;
+    }
+
+    .spinner {
+      width: 36px;
+      height: 36px;
+      border: 3px solid #333;
+      border-top-color: #0ea5e9;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin-bottom: 12px;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .empty { text-align: center; padding: 60px; color: #555; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>TakeTwo Asset Browser</h1>
+    <div class="stats">
+      <div>Total: <span id="totalCount">-</span></div>
+      <div>TakeTwo App: <span id="appCount">-</span></div>
+      <div>Landing: <span id="landingCount">-</span></div>
+    </div>
+    <div class="controls">
+      <input type="text" class="search-box" id="searchBox" placeholder="Search assets...">
+      <button class="btn active" data-filter="all">All</button>
+      <button class="btn" data-filter="image">Images</button>
+      <button class="btn" data-filter="video">Videos</button>
+      <button class="btn source-taketwoapp" data-source="taketwoapp">App Only</button>
+      <button class="btn source-landing" data-source="landing">Landing Only</button>
+    </div>
+  </div>
+
+  <div class="folder-nav" id="folderNav"></div>
+
+  <div class="container">
+    <div id="content">
+      <div class="loading">
+        <div class="spinner"></div>
+        <div>Loading assets...</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal" id="modal">
+    <div class="modal-header">
+      <div class="modal-title" id="modalTitle"></div>
+      <button class="modal-close" onclick="closeModal()">&times;</button>
+    </div>
+    <div class="modal-body" id="modalBody"></div>
+    <div class="modal-footer">
+      <div class="url-row">
+        <input type="text" id="modalUrl" readonly>
+        <button onclick="copyUrl()">Copy URL</button>
+      </div>
+      <div class="modal-actions">
+        <a href="#" id="openNewTab" target="_blank">Open in New Tab</a>
+        <a href="#" id="downloadLink" download>Download</a>
+        <button class="fullscreen" onclick="openFullscreen()">Fullscreen</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let allAssets = [];
+    let currentFilter = 'all';
+    let currentSource = 'all';
+    let currentFolder = 'all';
+
+    async function loadAssets() {
+      try {
+        const res = await fetch('/api/assets');
+        const data = await res.json();
+
+        allAssets = data.assets;
+
+        document.getElementById('totalCount').textContent = data.total;
+        document.getElementById('appCount').textContent = data.bySource.taketwoapp;
+        document.getElementById('landingCount').textContent = data.bySource.landing;
+
+        renderFolders();
+        renderAssets();
+      } catch (error) {
+        document.getElementById('content').innerHTML = `<div class="empty">Error: ${error.message}</div>`;
+      }
+    }
+
+    function renderFolders() {
+      const folders = {};
+      allAssets.forEach(a => {
+        const parts = a.key.split('/');
+        const folder = parts.length > 1 ? parts[0] : 'root';
+        folders[folder] = (folders[folder] || 0) + 1;
+      });
+
+      const nav = document.getElementById('folderNav');
+      nav.innerHTML = `<button class="folder-btn active" data-folder="all">All (${allAssets.length})</button>` +
+        Object.entries(folders)
+          .sort((a, b) => b[1] - a[1])
+          .map(([name, count]) => `<button class="folder-btn" data-folder="${name}">${name} (${count})</button>`)
+          .join('');
+
+      nav.querySelectorAll('.folder-btn').forEach(btn => {
+        btn.onclick = () => {
+          nav.querySelectorAll('.folder-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          currentFolder = btn.dataset.folder;
+          renderAssets();
+        };
+      });
+    }
+
+    function renderAssets() {
+      const search = document.getElementById('searchBox').value.toLowerCase();
+
+      let filtered = allAssets.filter(a => {
+        if (currentFilter !== 'all' && a.type !== currentFilter) return false;
+        if (currentSource !== 'all' && a.source !== currentSource) return false;
+        if (currentFolder !== 'all') {
+          const folder = a.key.split('/')[0];
+          if (folder !== currentFolder && !(currentFolder === 'root' && !a.key.includes('/'))) return false;
+        }
+        if (search && !a.key.toLowerCase().includes(search)) return false;
+        return true;
+      });
+
+      if (filtered.length === 0) {
+        document.getElementById('content').innerHTML = '<div class="empty">No assets found</div>';
+        return;
+      }
+
+      document.getElementById('content').innerHTML = `
+        <div class="grid">
+          ${filtered.map(asset => `
+            <div class="asset-card" onclick='openModal(${JSON.stringify(asset).replace(/'/g, "\\'")})'>
+              <div class="asset-preview">
+                <span class="source-badge ${asset.source}">${asset.source === 'taketwoapp' ? 'App' : 'Landing'}</span>
+                ${asset.type === 'video' ? `
+                  <video src="${asset.url}" muted preload="metadata"></video>
+                  <div class="play-icon"></div>
+                ` : asset.type === 'image' ? `
+                  <img src="${asset.url}" alt="${asset.name}" loading="lazy" onerror="this.style.display='none'">
+                ` : `<div style="font-size:36px">🎵</div>`}
+              </div>
+              <div class="asset-info">
+                <div class="asset-name" title="${asset.key}">${asset.name}</div>
+                <div class="asset-meta">
+                  <span class="asset-type ${asset.type}">${asset.type}</span>
+                  <span>${formatSize(asset.size)}</span>
+                </div>
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      `;
+    }
+
+    function formatSize(bytes) {
+      if (bytes < 1024) return bytes + ' B';
+      if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(1) + ' KB';
+      return (bytes / (1024 * 1024)).toFixed(1) + ' MB';
+    }
+
+    function openModal(asset) {
+      document.getElementById('modalTitle').textContent = asset.key;
+
+      const body = document.getElementById('modalBody');
+      if (asset.type === 'video') {
+        body.innerHTML = `<video src="${asset.url}" controls autoplay></video>`;
+      } else if (asset.type === 'image') {
+        body.innerHTML = `<img src="${asset.url}" alt="${asset.name}">`;
+      } else {
+        body.innerHTML = `<audio src="${asset.url}" controls autoplay></audio>`;
+      }
+
+      // For local files, construct full URL
+      const fullUrl = window.location.origin + asset.url;
+      document.getElementById('modalUrl').value = fullUrl;
+      document.getElementById('openNewTab').href = asset.url;
+      document.getElementById('downloadLink').href = asset.url;
+      document.getElementById('downloadLink').download = asset.name;
+
+      document.getElementById('modal').classList.add('active');
+    }
+
+    function closeModal() {
+      document.getElementById('modal').classList.remove('active');
+      document.getElementById('modalBody').innerHTML = '';
+    }
+
+    function copyUrl() {
+      const input = document.getElementById('modalUrl');
+      navigator.clipboard.writeText(input.value);
+      const btn = input.nextElementSibling;
+      btn.textContent = 'Copied!';
+      btn.classList.add('copied');
+      setTimeout(() => { btn.textContent = 'Copy URL'; btn.classList.remove('copied'); }, 1500);
+    }
+
+    function openFullscreen() {
+      const el = document.querySelector('#modalBody video, #modalBody img');
+      if (el?.requestFullscreen) el.requestFullscreen();
+    }
+
+    // Event listeners
+    document.getElementById('searchBox').addEventListener('input', renderAssets);
+
+    document.querySelectorAll('.btn[data-filter]').forEach(btn => {
+      btn.onclick = () => {
+        document.querySelectorAll('.btn[data-filter]').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentFilter = btn.dataset.filter;
+        renderAssets();
+      };
+    });
+
+    document.querySelectorAll('.btn[data-source]').forEach(btn => {
+      btn.onclick = () => {
+        const wasActive = btn.classList.contains('active');
+        document.querySelectorAll('.btn[data-source]').forEach(b => b.classList.remove('active'));
+        if (!wasActive) {
+          btn.classList.add('active');
+          currentSource = btn.dataset.source;
+        } else {
+          currentSource = 'all';
+        }
+        renderAssets();
+      };
+    });
+
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+    document.getElementById('modal').addEventListener('click', e => { if (e.target.id === 'modal') closeModal(); });
+
+    loadAssets();
+  </script>
+</body>
+</html>
