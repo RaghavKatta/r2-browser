@@ -2,12 +2,9 @@
 const fs = require('fs');
 const path = require('path');
 
-// Local paths for scanning
-const TAKETWOAPP_PUBLIC = '/Users/raghavkatta/VSCODE/taketwoapp/public';
+// For Vercel: only landing assets (bundled in repo)
+// For local dev: server.js serves both taketwoapp and landing
 const LANDING_PUBLIC = path.join(__dirname, 'public', 'landing');
-
-// Production URLs
-const R2_CDN_URL = 'https://pub-9b8c0c9e6b914994b596b2109f00f0e7.r2.dev';
 
 function getFileType(ext) {
   if (['.mp4', '.webm', '.mov', '.avi', '.mkv'].includes(ext)) return 'video';
@@ -58,28 +55,22 @@ function getMediaFiles(dir, baseDir, urlPrefix, source) {
   return results;
 }
 
-// Generate assets
+// Generate assets (landing only for Vercel deployment)
 console.log('Scanning directories...');
 
-// TakeTwo App assets → R2 CDN URLs
-const taketwoappAssets = getMediaFiles(TAKETWOAPP_PUBLIC, TAKETWOAPP_PUBLIC, R2_CDN_URL, 'taketwoapp');
-
-// Landing assets → relative URLs (served from /landing/)
 const landingAssets = getMediaFiles(LANDING_PUBLIC, LANDING_PUBLIC, '/landing', 'landing');
 
-const allAssets = [...taketwoappAssets, ...landingAssets];
-
 const data = {
-  total: allAssets.length,
+  total: landingAssets.length,
   bySource: {
-    taketwoapp: taketwoappAssets.length,
+    taketwoapp: 0,
     landing: landingAssets.length
   },
-  assets: allAssets
+  assets: landingAssets
 };
 
 fs.writeFileSync(path.join(__dirname, 'public', 'assets.json'), JSON.stringify(data, null, 2));
 
-console.log(`✅ Generated assets.json with ${allAssets.length} assets`);
-console.log(`   - TakeTwo App (R2 CDN): ${taketwoappAssets.length}`);
-console.log(`   - Landing (local): ${landingAssets.length}`);
+console.log(`✅ Generated assets.json with ${landingAssets.length} assets`);
+console.log(`   - Landing: ${landingAssets.length}`);
+console.log(`\nNote: TakeTwo App assets available on local server only (too large for GitHub)`);
